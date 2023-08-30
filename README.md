@@ -2,14 +2,16 @@
 
 <h1>
     <a href="https://elizabetefabri.cloud">
-     <img align="center" alt="Logo" width="36px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
+     <img align="center" alt="Logo" width="36px" src="chaves.png">
     </a>
     <span>Elizabete Fabri</span>
 </h1>
 
-Hello, I'm Elizabete de Sousa Fabri, graduated in Internet Systems.
-I've been in the field of technology since 2019, when I performed my first "Hello World" with Javascript.
-I have a passion for arts and technology, and I try to keep up to date with the latest trends in the industry. My goal is to provide innovative solutions to my clients, always focusing on clean code and adding value to their products at every stage.
+<p align="justify">
+Hello, I'm Elizabete de Sousa Fabri, graduated in Internet Systems.<br>
+I've been in the field of technology since 2019, when I performed my first "Hello World" with Javascript.<br>
+I have a passion for arts and technology, and I try to keep up to date with the latest trends in the industry.<br> 
+My goal is to provide innovative solutions to my clients, always focusing on clean code and adding value to their products at every stage.</p>
 
 ##
 
