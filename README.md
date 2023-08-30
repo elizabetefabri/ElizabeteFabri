@@ -24,7 +24,7 @@ My goal is to provide innovative solutions to my clients, always focusing on cle
 
 <h3 align="left">GitHub Stats</h3>
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElizabeteFabri&show_icons=true&theme=calm)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElizabeteFabri&show_icons=true&theme=dracula)
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
