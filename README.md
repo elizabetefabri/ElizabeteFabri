@@ -1,4 +1,4 @@
-<img align="right" alt="Developer" height="380" src="banner.png">
+<img align="right" alt="Developer" height="380" src="img-git.png">
 
 <h1>
     <a href="https://elizabetefabri.cloud">
