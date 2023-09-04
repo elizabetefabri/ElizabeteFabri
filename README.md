@@ -13,7 +13,7 @@ I've been in the field of technology since 2019, when I performed my first "Hell
 I have a passion for arts and technology, and I try to keep up to date with the latest trends in the industry.<br> 
 My goal is to provide innovative solutions to my clients, always focusing on clean code and adding value to their products at every stage.</p>
 
-##
+</hr>
 
 <h3 align="left">Connect with me</h3>
 
@@ -27,11 +27,10 @@ My goal is to provide innovative solutions to my clients, always focusing on cle
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElizabeteFabri&show_icons=true&theme=dracula)
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
 <!-- FOOTER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-"Nada substitui a persistência, nem mesmo o talento." CALVIN COOLIDGE. 
+"Nada substitui a persistência, nem mesmo o talento." CALVIN COOLIDGE.
