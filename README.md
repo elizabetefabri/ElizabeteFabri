@@ -13,7 +13,7 @@ I've been in the field of technology since 2019, when I performed my first "Hell
 I have a passion for arts and technology, and I try to keep up to date with the latest trends in the industry.<br> 
 My goal is to provide innovative solutions to my clients, always focusing on clean code and adding value to their products at every stage.</p>
 
-</hr>
+##
 
 <h3 align="left">Connect with me</h3>
 
