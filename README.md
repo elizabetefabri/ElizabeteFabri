@@ -2,7 +2,7 @@
 
 <h1>
     <a href="https://elizabetefabri.cloud">
-     <img align="center" alt="Logo" width="36px" src="chaves.png">
+     <img align="center" alt="Logo" width="36px" src="favicon-2.png">
     </a>
     <span>Elizabete Fabri</span>
 </h1>
