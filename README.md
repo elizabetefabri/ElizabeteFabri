@@ -17,10 +17,10 @@ My goal is to provide innovative solutions to my clients, always focusing on cle
 
 <h3 align="left">Connect with me</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF8888&color:FFF)](mailto:elizabetefabri@outlook.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF8888&color:FFF)](mailto:elzbietasousafabri@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF8888&color:FFF)](https://www.linkedin.com/in/elizabetefabri/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF8888&color:FFF)]()
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF8888&color:FFF)]()
+[![Figma](https://img.shields.io/badge/figma-000.svg?style=for-the-badge&logo=figma&logoColor=FF8888&color:FFF)]()
+[![Canva](https://img.shields.io/badge/CURRÍCULO-000.svg?style=for-the-badge&logo=Canva&logoColor=FF8888&color:FFF)](https://www.canva.com/design/DAF8CCFSsVA/cPoM9GH72fZZQzYq8bEO8w/edit)
 
 <h3 align="left">GitHub Stats</h3>
   
