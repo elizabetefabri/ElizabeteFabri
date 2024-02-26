@@ -8,10 +8,10 @@
 </h1>
 
 <p align="justify">
-Hello, I'm Elizabete de Sousa Fabri, graduated in Internet Systems.<br>
-I've been in the field of technology since 2019, when I performed my first "Hello World" with Javascript.<br>
-I have a passion for arts and technology, and I try to keep up to date with the latest trends in the industry.<br> 
-My goal is to provide innovative solutions to my clients, always focusing on clean code and adding value to their products at every stage.</p>
+👋👋👋 Hello world!!! I'm Elizabete de Sousa Fabri, graduated in Internet Systems.
+I've been in the field of technology since 2019, when I performed my first "Hello World" with Javascript
+My solid background in Internet Systems allows me to focus on the evolution of modern frontend technologies, delivering high quality projects. I stand out as a versatile and experienced professional, with a special ability to create innovative solutions that improve user experience and technical efficiency.
+</p>
 
 ##
 
