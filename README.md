@@ -26,11 +26,15 @@ My solid background in Internet Systems allows me to focus on the evolution of m
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElizabeteFabri&show_icons=true&theme=dracula)
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-</div>
+<img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg" alt="snake" />
 
-<!-- FOOTER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+<div align="center">
+    
+
 "Nada substitui a persistência, nem mesmo o talento." CALVIN COOLIDGE.
+</div>
+
+
