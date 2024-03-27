@@ -1,23 +1,19 @@
-<img align="right" alt="Developer" height="380" src="img-git.png">
+
 
 <h1>
-    <a href="https://elizabetefabri.cloud">
+    <a href="[https://elizabetefabri.cloud](https://elizabetefabri.github.io/)">
      <img align="center" alt="Logo" width="36px" src="favicon-2.png">
     </a>
-    <span>About me</span>
+    <span>Sobre mim</span>
 </h1>
 
 [![Contagem de usuarios no Github](https://visitcount.itsvg.in/api?id=elizabetefabri&label=Engenheira%20de%20Software&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
-
-
 
 <p align="justify">
 👋👋👋 Hello world!!! I'm Elizabete de Sousa Fabri, graduated in Internet Systems.
 I've been in the field of technology since 2019, when I performed my first "Hello World" with Javascript
 My solid background in Internet Systems allows me to focus on the evolution of modern frontend technologies, delivering high quality projects. I stand out as a versatile and experienced professional, with a special ability to create innovative solutions that improve user experience and technical efficiency.
 </p>
-
-##
 
 <h3 align="left">🌐 Socials:</h3>
 
