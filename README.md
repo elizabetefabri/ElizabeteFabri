@@ -19,7 +19,7 @@
 
 <h3 align="left">GitHub Stats</h3>
   
-<div style="display: inline_block">
+<div style="display: flex">
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElizabeteFabri&show_icons=true&theme=dracula)
 
