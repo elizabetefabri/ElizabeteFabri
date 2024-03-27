@@ -18,7 +18,7 @@
 [![Canva](https://img.shields.io/badge/CURRÍCULO-000.svg?style=for-the-badge&logo=Canva&logoColor=FF8888&color:FFF)](https://www.canva.com/design/DAF8CCFSsVA/cPoM9GH72fZZQzYq8bEO8w/edit)
 
 <h3 align="left">GitHub Stats</h3>
-  
+<div dir='auto' style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between;> </div>
 <div style="display: flex">
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElizabeteFabri&show_icons=true&theme=dracula)
