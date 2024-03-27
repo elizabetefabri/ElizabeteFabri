@@ -2,13 +2,11 @@
 
 👋👋👋 Hello world!!! Sou desenvolvedor(a) Web FrontEnd, cursando pós graduação em Engenharia de software.
 
-
 ## Redes Sociais
-
-- 📧 [E-mail](mailto:elzbietasousafabri@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/elizabetefabri/)
-- 🎨 [Figma](https://www.figma.com/)
-- 📄 [Currículo](https://www.canva.com/design/DAF8CCFSsVA/cPoM9GH72fZZQzYq8bEO8w/edit)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF8888&color:FFF)](mailto:elzbietasousafabri@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF8888&color:FFF)](https://www.linkedin.com/in/elizabetefabri/)
+[![Figma](https://img.shields.io/badge/figma-000.svg?style=for-the-badge&logo=figma&logoColor=FF8888&color:FFF)]()
+[![Canva](https://img.shields.io/badge/CURRÍCULO-000.svg?style=for-the-badge&logo=Canva&logoColor=FF8888&color:FFF)](https://www.canva.com/design/DAF8CCFSsVA/cPoM9GH72fZZQzYq8bEO8w/edit)
 
 ## GitHub Stats
 
@@ -20,6 +18,7 @@
 
 
 ---
+[![Contagem de usuários no Github](https://visitcount.itsvg.in/api?id=elizabetefabri&label=Engenheira%20de%20Software&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg" alt="snake" />
 
