@@ -3,7 +3,7 @@
     <span>Sobre mim</span>
 </h1>
 
-👋👋👋 Hello world!!! Sou desenvolvedor(a) Web FrontEnd, cursando pós graduação em Engenharia de software.
+👋👋👋 Hello world!!! Sou desenvolvedor(a) Web FrontEnd.
 
 
 <h3 align="left">Socials:</h3>
