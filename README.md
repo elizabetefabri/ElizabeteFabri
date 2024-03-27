@@ -1,10 +1,7 @@
-# Sobre mim
+<h1> Sobre mim </h1> 
 
 👋👋👋 Hello world!!! Sou desenvolvedor(a) Web FrontEnd, cursando pós graduação em Engenharia de software.
 
-[![Contagem de usuários no Github](https://visitcount.itsvg.in/api?id=elizabetefabri&label=Engenheira%20de%20Software&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
-
----
 
 ## Redes Sociais
 
@@ -12,8 +9,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/elizabetefabri/)
 - 🎨 [Figma](https://www.figma.com/)
 - 📄 [Currículo](https://www.canva.com/design/DAF8CCFSsVA/cPoM9GH72fZZQzYq8bEO8w/edit)
-
----
 
 ## GitHub Stats
 
