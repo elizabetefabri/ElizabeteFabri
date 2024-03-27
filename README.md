@@ -17,9 +17,11 @@
 
 ## GitHub Stats
 
-<img style="display: flex; justify-content: center;" src="https://github-readme-stats.vercel.app/api?username=ElizabeteFabri&show_icons=true&theme=dracula" alt="GitHub Stats" />
+<p style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-around; align-items: center;">
+<img src="https://github-readme-stats.vercel.app/api?username=ElizabeteFabri&show_icons=true&theme=dracula" alt="GitHub Stats" />
 
-<img style="display: flex; justify-content: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabetefabri&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabetefabri&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Most Used Languages" />
+</p>
 
 
 ---
