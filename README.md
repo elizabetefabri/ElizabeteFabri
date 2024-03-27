@@ -23,7 +23,8 @@
 
 
 ---
-[![Contagem de usuários no Github](https://visitcount.itsvg.in/api?id=elizabetefabri&label=Desenvolvedo(a)%20Web%20FrontEnd&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=elizabetefabri&label=Desenvoldor(a)%20Web%20FrontEnd&color=10&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg" alt="snake" />
 
