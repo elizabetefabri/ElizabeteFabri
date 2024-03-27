@@ -1,8 +1,16 @@
-<!-- <img align="right" alt="Developer" height="380" src="img-git.png"> -->
+<img align="right" alt="Developer" height="380" src="img-git.png">
 
-<h1> Sobre mim </h1> 
+<h1>
+    <a href="[https://elizabetefabri.cloud](https://elizabetefabri.github.io/)">
+     <img align="center" alt="Logo" width="36px" src="favicon-2.png">
+    </a>
+    <span>Sobre mim</span>
+</h1>
 
 👋👋👋 Hello world!!! Sou desenvolvedor(a) Web FrontEnd, cursando pós graduação em Engenharia de software.
+
+
+<h3 align="left">🌐 Socials:</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF8888&color:FFF)](mailto:elzbietasousafabri@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF8888&color:FFF)](https://www.linkedin.com/in/elizabetefabri/)
