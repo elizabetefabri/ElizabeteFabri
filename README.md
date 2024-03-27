@@ -1,16 +1,13 @@
 <h1>
     <a href="https://elizabetefabri.github.io/">
-     <img align="center" alt="Logo" width="36px" src="favicon-2.png">
     </a>
-    <span>Sobre mim</span>
+    <span>👋👋👋 Hello world!!! Sou desenvolvedor(a) Web FrontEnd, cursando pós graduação em Engenharia de software</span>
 </h1>
 
 [![Contagem de usuários no Github](https://visitcount.itsvg.in/api?id=elizabetefabri&label=Engenheira%20de%20Software&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 <p align="justify">
-👋👋👋 Olá, mundo!!! Eu sou Elizabete de Sousa Fabri, formada em Sistemas de Internet.
-Estou no campo da tecnologia desde 2019, quando executei meu primeiro "Olá, Mundo" com Javascript.
-Meu sólido histórico em Sistemas de Internet me permite focar na evolução das tecnologias front-end modernas, entregando projetos de alta qualidade. Destaco-me como uma profissional versátil e experiente, com uma habilidade especial para criar soluções inovadoras que melhoram a experiência do usuário e a eficiência técnica.
+
 </p>
 
 <h3 align="left">🌐 Redes Sociais:</h3>
@@ -22,16 +19,12 @@ Meu sólido histórico em Sistemas de Internet me permite focar na evolução da
 
 <h3 align="left">GitHub Stats</h3>
   
-<div style='width: 45%'>
+<div style="display: inline_block">
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElizabeteFabri&show_icons=true&theme=dracula)
 
-</div>
-
-<div style='width: 45%'>
-    
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabetefabri&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
+    
 </div>
 
 <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg" alt="snake" />
