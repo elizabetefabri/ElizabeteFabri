@@ -1,4 +1,4 @@
-<img align="right" alt="Developer" height="380" src="img-git.png">
+<!-- <img align="right" alt="Developer" height="380" src="img-git.png"> -->
 
 <h1> Sobre mim </h1> 
 
