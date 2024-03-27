@@ -18,14 +18,24 @@
 [![Canva](https://img.shields.io/badge/CURRÍCULO-000.svg?style=for-the-badge&logo=Canva&logoColor=FF8888&color:FFF)](https://www.canva.com/design/DAF8CCFSsVA/cPoM9GH72fZZQzYq8bEO8w/edit)
 
 <h3 align="left">GitHub Stats</h3>
-<div class='content-stats' style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between;">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElizabeteFabri&show_icons=true&theme=dracula)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabetefabri&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<table >
+  <tr>
+    <td align="center" class="no-border">
+      <img src="https://github-readme-stats.vercel.app/api?username=ElizabeteFabri&show_icons=true&theme=dracula" alt="GitHub Stats" />
+    </td>
+    <td align="center" class="no-border">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabetefabri&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
-</div>
-
+<style>
+  .no-border {
+  border: none !important;
+}
+</style>
 
 <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg" alt="snake" />
 
