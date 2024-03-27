@@ -4,8 +4,12 @@
     <a href="https://elizabetefabri.cloud">
      <img align="center" alt="Logo" width="36px" src="favicon-2.png">
     </a>
-    <span>Elizabete Fabri</span>
+    <span>About me</span>
 </h1>
+
+[![Contagem de usuarios no Github](https://visitcount.itsvg.in/api?id=elizabetefabri&label=Engenheira%20de%20Software&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
+
+
 
 <p align="justify">
 👋👋👋 Hello world!!! I'm Elizabete de Sousa Fabri, graduated in Internet Systems.
@@ -15,7 +19,7 @@ My solid background in Internet Systems allows me to focus on the evolution of m
 
 ##
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">🌐 Socials:</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF8888&color:FFF)](mailto:elzbietasousafabri@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF8888&color:FFF)](https://www.linkedin.com/in/elizabetefabri/)
@@ -25,6 +29,8 @@ My solid background in Internet Systems allows me to focus on the evolution of m
 <h3 align="left">GitHub Stats</h3>
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElizabeteFabri&show_icons=true&theme=dracula)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabetefabri&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg" alt="snake" />
 
