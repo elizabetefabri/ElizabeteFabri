@@ -24,8 +24,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=elizabetefabri&label=Desenvoldor(a)%20Web%20FrontEnd&color=10&icon=7&pretty=true)](https://visitcount.itsvg.in)
-
 <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg" alt="snake" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
