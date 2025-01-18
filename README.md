@@ -15,7 +15,7 @@ Sou desenvolvedor(a) Web FrontEnd.
 ## GitHub Stats
 
 <a href="https://elizabetefabri.co/">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ElizabeteFabri&show_icons=true&theme=dracula&border_color=ff79c6" alt="GitHub" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=elizabetefabri&show_icons=true&theme=dracula&border_color=ff79c6" alt="GitHub" />
   
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabetefabri&theme=dracula&border_color=ff79c6&include_all_commits=true&count_private=false&layout=compact" alt="Most Used Languages" />
 </a>
