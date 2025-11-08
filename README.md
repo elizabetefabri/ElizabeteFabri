@@ -16,7 +16,7 @@
 
 Sou <b>Engenheira de Software no Itaú Unibanco</b>, apaixonada por tecnologia, automação e soluções em Cloud.  
 Atuo com foco em <b>Plataformas, DevSecOps e Engenharia de Software</b>, unindo performance, segurança e inovação.  
-No tempo livre, gosto de criar interfaces intuitivas e explorar projetos pessoais em Angular, Next.js e AWS.  
+No tempo livre, gosto de criar interfaces intuitivas e explorar projetos pessoais em Angular, Next.js e AWS.
 
 ---
 
@@ -24,63 +24,68 @@ No tempo livre, gosto de criar interfaces intuitivas e explorar projetos pessoai
 
 <p align="left">
   <a href="mailto:elizabetesousafabri@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-1A1A1F?style=for-the-badge&logo=gmail&logoColor=#ff8899&color=ff8899" />
+    <img src="https://img.shields.io/badge/-Email-FFE3E6?style=for-the-badge&logo=gmail&logoColor=FF8899&labelColor=1A1A1F" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/elizabetefabri/">
-    <img src="https://img.shields.io/badge/-LinkedIn-1A1A1F?style=for-the-badge&logo=linkedin&logoColor=1DA1F2&color=1A1A1F" />
+    <img src="https://img.shields.io/badge/-LinkedIn-E9E3FF?style=for-the-badge&logo=linkedin&logoColor=8F48EB&labelColor=1A1A1F" alt="LinkedIn" />
   </a>
   <a href="https://elizabetesousafabri.carrd.co">
-    <img src="https://img.shields.io/badge/-Portfólio-1A1A1F?style=for-the-badge&logo=vercel&logoColor=8F48EB&color=1A1A1F" />
+    <img src="https://img.shields.io/badge/-Portfólio-E9E9E9?style=for-the-badge&logo=vercel&logoColor=FFB84D&labelColor=1A1A1F" alt="Portfólio" />
   </a>
   <a href="https://www.canva.com/design/DAGnEUyrgX8/pIJFgpBm91fm_UuJtTXcLg/view">
-    <img src="https://img.shields.io/badge/-Currículo-1A1A1F?style=for-the-badge&logo=readme&logoColor=00ff88&color=1A1A1F" />
+    <img src="https://img.shields.io/badge/-Currículo-E7FFF3?style=for-the-badge&logo=readme&logoColor=00FF88&labelColor=1A1A1F" alt="Currículo" />
   </a>
 </p>
 
----
+<h2>⚡ Tech Stack</h2>
 
-### ⚡ Tech Stack
-
-#### 💻 Linguagens & Frameworks  
-<p align="left">
-  <img src="https://img.shields.io/badge/-TypeScript-1A1A1F?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/-JavaScript-1A1A1F?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
-  <img src="https://img.shields.io/badge/-Python-1A1A1F?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/-Java-1A1A1F?style=for-the-badge&logo=openjdk&logoColor=E76F00" />
-  <img src="https://img.shields.io/badge/-Node.js-1A1A1F?style=for-the-badge&logo=node.js&logoColor=00ff88" />
-  <img src="https://img.shields.io/badge/-Angular-1A1A1F?style=for-the-badge&logo=angular&logoColor=ea4c89" />
-  <img src="https://img.shields.io/badge/-Next.js-1A1A1F?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
-
-#### ☁️ Cloud & DevOps  
-<p align="left">
-  <img src="https://img.shields.io/badge/-AWS-1A1A1F?style=for-the-badge&logo=amazon-aws&logoColor=ffb84d" />
-  <img src="https://img.shields.io/badge/-Kubernetes-1A1A1F?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
-  <img src="https://img.shields.io/badge/-Docker-1A1A1F?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/-GitHub_Actions-1A1A1F?style=for-the-badge&logo=githubactions&logoColor=00ff88" />
-  <img src="https://img.shields.io/badge/-Terraform-1A1A1F?style=for-the-badge&logo=terraform&logoColor=8f48eb" />
-  <img src="https://img.shields.io/badge/-Helm-1A1A1F?style=for-the-badge&logo=helm&logoColor=8f48eb" />
-</p>
-
-#### 🧩 Ferramentas & Outros  
-<p align="left">
-  <img src="https://img.shields.io/badge/-Git-1A1A1F?style=for-the-badge&logo=git&logoColor=F1502F" />
-  <img src="https://img.shields.io/badge/-VSCode-1A1A1F?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4" />
-  <img src="https://img.shields.io/badge/-Figma-1A1A1F?style=for-the-badge&logo=figma&logoColor=ea4c89" />
-  <img src="https://img.shields.io/badge/-Notion-1A1A1F?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-1A1A1F?style=for-the-badge&logo=linux&logoColor=ffb84d" />
-</p>
-
----
+<div align="left">
+  <!-- Cloud e DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="google cloud logo" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" alt="helm logo" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="terraform logo" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="github actions logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" height="40" alt="datadog logo" />
+  <img src="https://skillicons.dev/icons?i=googleanalytics" height="40" alt="google analytics logo" />
+  <!-- Testes e Performance -->
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="py logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="locust logo" title="Locust" />
+  <!-- Linguagens -->
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo" />
+  <!-- Frameworks e Front-End -->
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+  <!-- Ferramentas e Outros -->
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" style="border: 1px solid #ff8899; border-radius: 10px" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" style="border: 1px solid #ff8899; border-radius: 10px"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" style="border: 1px solid #ff8899; border-radius: 10px"/>
+</div>
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elizabetefabri&show_icons=true&theme=tokyonight&title_color=ffb84d&icon_color=ea4c89&text_color=d9d9d9&bg_color=1a1a1f&border_color=8f48eb" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabetefabri&layout=compact&theme=tokyonight&title_color=ffb84d&text_color=d9d9d9&bg_color=1a1a1f&border_color=8f48eb" />
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elizabetefabri&show_icons=true&theme=tokyonight&title_color=ff8888&icon_color=ff8899&text_color=d9d9d9&bg_color=1a1a1f&border_color=ff8899" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabetefabri&layout=compact&theme=tokyonight&title_color=ff8888&text_color=d9d9d9&bg_color=1a1a1f&border_color=ff8899" />
 </p>
-
----
 
 <img src="./grid-snake.svg" alt="snake animation" />
 
