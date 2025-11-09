@@ -10,15 +10,11 @@
   <i style="color:#999;">Apaixonada por tecnologia, automação e soluções em Cloud ☁️</i>
 </p>
 
----
-
 ### 🌸 Sobre mim
 
 Sou <b>Engenheira de Software no Itaú Unibanco</b>, apaixonada por tecnologia, automação e soluções em Cloud.  
 Atuo com foco em <b>Plataformas, DevSecOps e Engenharia de Software</b>, unindo performance, segurança e inovação.  
 No tempo livre, gosto de criar interfaces intuitivas e explorar projetos pessoais em Angular, Next.js e AWS.
-
----
 
 ### 💬 Conecte-se comigo
 
@@ -74,10 +70,11 @@ No tempo livre, gosto de criar interfaces intuitivas e explorar projetos pessoai
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" borderColor="1px solid #ff8899" height="40" alt="bootstrap logo" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" style="border: 2px solid #ff8899; border-radius: 13px" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" style="border: 2px solid #ff8899; border-radius: 13px"/>
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" style="border: 2px solid #ff8899; border-radius: 13px"/>
+  
 </div>
 
 ### 📊 GitHub Analytics
