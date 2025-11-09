@@ -1,11 +1,11 @@
-<h1 align="center">
-  <a href="https://elizabetesousafabri.com.br">
-    <img align="center" width="40px" src="./.github/logo.png" alt="Logo" />
+<h1 align="left">
+  <a href="https://elizabetesousafabri.com.br" style="padding-left: 15px;">
+    <img align="left" width="40px" src="./.github/logo.png" alt="Logo" />
   </a>
   <span style="color:#ffb84d;">Elizabete De Sousa Fabri</span>
 </h1>
 
-<p align="center">
+<p align="left">
   <b>Software Engineer | Platform Engineering | DevSecOps | Cloud & Front-End</b><br/>
   <i style="color:#999;">Apaixonada por tecnologia, automação e soluções em Cloud ☁️</i>
 </p>
