@@ -70,23 +70,31 @@ No tempo livre, gosto de criar interfaces intuitivas e explorar projetos pessoai
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" borderColor="1px solid #ff8899" height="40" alt="bootstrap logo" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" style="border: 2px solid #ff8899; border-radius: 13px" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" style="border: 2px solid #ff8899; border-radius: 13px"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" style="border: 2px solid #ff8899; border-radius: 13px"/>
-  
+  <img src="https://skillicons.dev/icons?i=bootstrap" borderColor="4px solid #ff8899" height="40" alt="bootstrap logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
 </div>
 
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elizabetefabri&show_icons=true&theme=tokyonight&title_color=ff8888&icon_color=ff8899&text_color=d9d9d9&bg_color=1a1a1f&border_color=ff8899" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabetefabri&layout=compact&theme=tokyonight&title_color=ff8888&text_color=d9d9d9&bg_color=1a1a1f&border_color=ff8899" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elizabetefabri&show_icons=true&theme=tokyonight&title_color=ff8888&icon_color=ff8899&text_color=d9d9d9&bg_color=1F222E&border_color=ff8899" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabetefabri&layout=compact&theme=tokyonight&title_color=ff8888&text_color=d9d9d9&bg_color=1F222E&border_color=ff8899" />
 </p>
 
-<img src="./grid-snake.svg" alt="snake animation" />
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img
+    alt="elizabetefabri's Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph/?username=elizabetefabri&bg_color=1F222E&color=ff8899&border_color=ff8899&title_color=ff8888&line=ff8899&point=fefefe&area=true&hide_border=false"
+  />
+</a>
+
+<div align="left">
+  <img src="./grid-snake.svg" alt="snake animation" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <sub><i>"Nada substitui a persistência, nem mesmo o talento." — Calvin Coolidge</i></sub>
 </div>
