@@ -75,10 +75,9 @@ No tempo livre, gosto de criar interfaces intuitivas e explorar projetos pessoai
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" style={{ border: "1px solid #ff8899", borderRadius: "10px" }} />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" style={{ border: "1px solid #ff8899", borderRadius: "10px" }}/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" style={{ border: "1px solid #ff8899", borderRadius: "10px" }}/>
-  
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" style="border: 2px solid #ff8899; border-radius: 13px" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" style="border: 2px solid #ff8899; border-radius: 13px"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" style="border: 2px solid #ff8899; border-radius: 13px"/>
 </div>
 
 ### 📊 GitHub Analytics
