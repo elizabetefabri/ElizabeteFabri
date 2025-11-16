@@ -90,6 +90,8 @@ No tempo livre, gosto de criar interfaces intuitivas e explorar projetos pessoai
   />
 </a>
 
+<img src="https://img.shields.io/static/v1?label=GitHub&message=Elizabete&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
 ###
 
 <picture>
