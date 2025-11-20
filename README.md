@@ -42,6 +42,7 @@ No tempo livre, gosto de criar interfaces intuitivas e explorar projetos pessoai
 <div align="left">
   <!-- Cloud e DevOps -->
   <img src="./.github/images/skills/angular-origin.png" height="50" />
+   <img src="./.github/images/skills/angular-origin2.png" height="50" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" style="
     border-radius: 10px;
     padding: 3px;
