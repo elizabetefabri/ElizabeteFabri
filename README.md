@@ -33,47 +33,183 @@ No tempo livre, gosto de criar interfaces intuitivas e explorar projetos pessoai
   </a>
 </p>
 
+<h2>DICAS DE OURO</h2>
+- COMO CRIAR CONTA NO GITHUB
+- COMO CRIAR UMA CHAVE SSH TOKEN
+
 <h2>⚡ Tech Stack</h2>
 
 <div align="left">
   <!-- Cloud e DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="google cloud logo" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" alt="helm logo" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="terraform logo" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="github actions logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" height="40" alt="datadog logo" />
-  <img src="https://skillicons.dev/icons?i=googleanalytics" height="40" alt="google analytics logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="google cloud logo" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="kubernetes logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="helm logo" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="terraform logo" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="github actions logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="grafana logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="datadog logo" />
+  <img src="https://skillicons.dev/icons?i=googleanalytics" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="google analytics logo" />
   <!-- Testes e Performance -->
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="py logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="locust logo" title="Locust" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="jest logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="py logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="locust logo" title="Locust" />
   <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="go logo" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="php logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="npm logo" />
   <!-- Frameworks e Front-End -->
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="angular logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="nextjs logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="nodejs logo" />
   <!-- Ferramentas e Outros -->
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" borderColor="4px solid #ff8899" height="40" alt="bootstrap logo" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="vscode logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="notion logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="css logo" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" borderColor="4px solid #ff8899" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="bootstrap logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="html logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" style="
+    border-radius: 10px;
+    padding: 3px;
+    background: linear-gradient(90deg, #E39600, #EA4C89, #8F48EB, #1DA1F2);
+  " alt="tailwind logo" />
 </div>
 
 ### 📊 GitHub Analytics
@@ -90,14 +226,13 @@ No tempo livre, gosto de criar interfaces intuitivas e explorar projetos pessoai
   />
 </a>
 
-### 🟣 Grid Snake 
+### 🟣 Grid Snake
 
 <div align="left">
   <img src="./grid-snake.svg" alt="snake animation" />
 </div>
 
 ### 🟡 Pac-Man Contribution Graph
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/dist/pacman-contribution-graph-dark.svg">
