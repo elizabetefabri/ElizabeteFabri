@@ -34,6 +34,7 @@ No tempo livre, gosto de criar interfaces intuitivas e explorar projetos pessoai
 </p>
 
 <h2>DICAS DE OURO</h2>
+
 - COMO CRIAR CONTA NO GITHUB
 - COMO CRIAR UMA CHAVE SSH TOKEN
 - ADICIONAR LINK DA MINHA CONTA MICROSOFT PORTFOLIO 
