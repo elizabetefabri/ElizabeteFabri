@@ -22,19 +22,19 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 <div align="left">
   <a href="https://www.linkedin.com/in/elizabetefabri/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FF8899?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-FF8899?style=for-the-badge&logo=linkedin&logoColor=gray">
   </a>
   <a href="https://github.com/elizabetefabri" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-FF8899?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-FF8899?style=for-the-badge&logo=github&logoColor=gray">
   </a>
   <a href="mailto:elizabetesousafabri@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-FF8899?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-FF8899?style=for-the-badge&logo=gmail&logoColor=gray">
   </a>
   <a href="https://www.instagram.com/elizabetefabrii/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF8899?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-FF8899?style=for-the-badge&logo=instagram&logoColor=gray">
   </a>
   <a href="https://twitter.com/elizabetefabrii" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-FF8899?style=for-the-badge&logo=x&logoColor=white">
+    <img src="https://img.shields.io/badge/Twitter-FF8899?style=for-the-badge&logo=x&logoColor=gray">
   </a>
 </div>
 
