@@ -1,6 +1,6 @@
 <h1 align="left">
   <a href="https://elizabetesousafabri.com.br" style="padding-left: 15px;">
-    <img align="left" width="40px" src="../ElizabeteFabri/.github/images/logo-01.png" alt="Logo" />
+    <img align="left" width="40px" src="../ElizabeteFabri/.github/images/menu-site.png" alt="Logo" />
   </a>
   <span style="color:#ffb84d;">Elizabete De Sousa Fabri</span>
 </h1>
@@ -97,7 +97,8 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 <tr>
 <td align="center">
 
-### 🟡 Pac-Man Graph  
+### 🟡 Pac-Man Graph
+
 <img width="1440" src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/dist/pacman-contribution-graph.svg">
 
 </td>
@@ -106,7 +107,8 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 <tr>
 <td align="center">
 
-### 🟣 Grid Snake  
+### 🟣 Grid Snake
+
 <img width="650" src="./grid-snake.svg">
 
 </td>
@@ -126,4 +128,3 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   
   <sub><i>"Nada substitui a persistência, nem mesmo o talento." — Calvin Coolidge</i></sub>
 </div>
-
