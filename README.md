@@ -1,6 +1,6 @@
 <h1 align="left">
   <a href="https://elizabetesousafabri.com.br" style="padding-left: 15px;">
-    <img align="left" width="40px" src="../ElizabeteFabri/.github/images/menu-site.png" alt="Logo" />
+    <img align="left" width="40px" src="./images/menu-site.png" alt="Logo" />
   </a>
   <span style="color:#ffb84d;">Elizabete De Sousa Fabri</span>
 </h1>
@@ -44,12 +44,12 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 <div align="left">
   <!-- Cloud e DevOps -->
-  <img src="./.github/images/skills/angular-origin.png" height="50" />
-  <img src="./.github/images/skills/aws.png" height="50" />
-  <img src="./.github/images/skills/go.png" height="50" />
-  <img src="./.github/images/skills/kubernetes.png" height="50" />
-  <img src="./.github/images/skills/nodejs.png" height="50" />
-  <img src="./.github/images/skills/terraform.png" height="50" />
+  <img src="./images/skills/angular-origin.png" height="50" />
+  <img src="./images/skills/aws.png" height="50" />
+  <img src="./images/skills/go.png" height="50" />
+  <img src="./images/skills/kubernetes.png" height="50" />
+  <img src="./images/skills/nodejs.png" height="50" />
+  <img src="./images/skills/terraform.png" height="50" />
 </div>
 
 <hr/>
