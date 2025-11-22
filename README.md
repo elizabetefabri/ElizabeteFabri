@@ -38,7 +38,9 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   </a>
 </div>
 
-<h2>⚡ Tech Stack</h2>
+---
+
+### ⚡ Tech Stack
 
 <div align="left">
   <!-- Cloud e DevOps -->
@@ -50,27 +52,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   <img src="./.github/images/skills/terraform.png" height="50" />
 </div>
 
----
-
-<div align="left">
-
-![Visitors](https://komarev.com/ghpvc/?username=elizabetefabri&color=FF8899&style=for-the-badge&label=VISITORS&logo=ko-fi&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=elizabetefabri&label=PROFILE+VIEWS&style=for-the-badge&color=FF8899&logo=ko-fi&logoColor=white)
-[![portfolio](https://img.shields.io/badge/My_-_Portfolio-ff8899?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-
-</div>
-
----
-
-### 🟡 Pac-Man Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/dist/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/dist/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/dist/pacman-contribution-graph.svg">
-</picture>
-
----
+<hr/>
 
 ### 📊 GitHub Analytics
 
@@ -109,18 +91,6 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 ---
 
-### 🟣 Grid Snake
-
-<div align="left">
-  <img src="./grid-snake.svg" alt="snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  <sub><i>"Nada substitui a persistência, nem mesmo o talento." — Calvin Coolidge</i></sub>
-</div>
-
 ### 🎮 Fun Visualizations
 
 <table align="center">
@@ -128,7 +98,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 <td align="center">
 
 ### 🟡 Pac-Man Graph  
-<img width="650" src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/dist/pacman-contribution-graph.svg">
+<img width="1440" src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/dist/pacman-contribution-graph.svg">
 
 </td>
 </tr>
@@ -142,4 +112,18 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 </td>
 </tr>
 </table>
+
+<div align="left">
+
+![Visitors](https://komarev.com/ghpvc/?username=elizabetefabri&color=FF8899&style=for-the-badge&label=VISITORS&logo=ko-fi&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=elizabetefabri&label=PROFILE+VIEWS&style=for-the-badge&color=FF8899&logo=ko-fi&logoColor=white)
+[![portfolio](https://img.shields.io/badge/My_-_Portfolio-ff8899?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+  <sub><i>"Nada substitui a persistência, nem mesmo o talento." — Calvin Coolidge</i></sub>
+</div>
 
