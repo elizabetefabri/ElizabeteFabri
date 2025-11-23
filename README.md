@@ -47,7 +47,6 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 ### ⚡ Tech Stack
 
 <div align="left">
-  <!-- Cloud e DevOps -->
   <img src="./images/skills/angular-origin.png" height="50" />
   <img src="./images/skills/aws.png" height="50" />
   <img src="./images/skills/go.png" height="50" />
@@ -56,7 +55,9 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   <img src="./images/skills/terraform.png" height="50" />
 </div>
 
-<hr/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ### 📊 GitHub Analytics
 
