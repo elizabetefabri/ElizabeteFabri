@@ -16,7 +16,9 @@ I’m a **Software Engineer at Itaú Unibanco**, passionate about technology, au
 I work with a strong focus on **Platform Engineering, DevSecOps, and Software Engineering**, combining performance, security, and innovation.  
 In my free time, I enjoy building intuitive interfaces and exploring personal projects using Angular, Next.js, and AWS.
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ### 💬 Connect with Me
 
@@ -38,7 +40,9 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   </a>
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ### ⚡ Tech Stack
 
@@ -89,7 +93,9 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ### 🎮 Fun Visualizations
 
