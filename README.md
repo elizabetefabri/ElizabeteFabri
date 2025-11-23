@@ -17,7 +17,7 @@ I work with a strong focus on **Platform Engineering, DevSecOps, and Software En
 In my free time, I enjoy building intuitive interfaces and exploring personal projects using Angular, Next.js, and AWS.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="./images/skills/borda.png" />
 </div>
 
 ### 💬 Connect with Me
