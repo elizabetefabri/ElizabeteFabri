@@ -47,12 +47,12 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 ### ⚡ Tech Stack
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/refs/heads/main/images/skills/angular-origin.png" height="50" />
-  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/refs/heads/main/images/skills/aws.png" height="50" />
-  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/refs/heads/main/images/skills/go.png" height="50" />
-  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/refs/heads/main/images/skills/01kuber.png" height="50" />
-  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/refs/heads/main/images/skills/node.png" height="50" />
-  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/refs/heads/main/images/skills/logoTerraform.png" height="50" />
+  <img src="./images/skills/logoAngular.png" height="50" />
+  <img src="./images/skills/logoAws.png" height="50" />
+  <img src="./images/skills/logoGo.png" height="50" />
+  <img src="./images/skills/logoKubernetes.png" height="50" />
+  <img src="./images/skills/logoNode.png" height="50" />
+  <img src="./images/skills/logoTerraform.png" height="50" />
 </div>
 
 <div align="center">
