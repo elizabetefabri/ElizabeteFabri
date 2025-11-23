@@ -1,6 +1,6 @@
 <h1 align="left">
   <a href="https://elizabetesousafabri.com.br" style="padding-left: 15px;">
-    <img align="left" width="40px" src="./images/menu-site.png" alt="Logo" />
+    <img align="left" width="40px" src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/menu-site.png" alt="Logo" />
   </a>
   <span style="color:#ffb84d;">Elizabete De Sousa Fabri</span>
 </h1>
@@ -17,7 +17,7 @@ I work with a strong focus on **Platform Engineering, DevSecOps, and Software En
 In my free time, I enjoy building intuitive interfaces and exploring personal projects using Angular, Next.js, and AWS.
 
 <div align="center">
-  <img src="./images/skills/borda.png" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/borda.png" />
 </div>
 
 ### 💬 Connect with Me
@@ -41,22 +41,22 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 </div>
 
 <div align="center">
-  <img src="./images/skills/borda.png" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/borda.png" />
 </div>
 
 ### ⚡ Tech Stack
 
 <div align="left">
-  <img src="./images/skills/logoAngular.png" height="50" />
-  <img src="./images/skills/logoAws.png" height="50" />
-  <img src="./images/skills/logoGo.png" height="50" />
-  <img src="./images/skills/logoKubernetes.png" height="50" />
-  <img src="./images/skills/logoNode.png" height="50" />
-  <img src="./images/skills/logoTerraform.png" height="50" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/logoAngular.png" height="50" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/logoAws.png" height="50" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/logoGo.png" height="50" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/logoKubernetes.png" height="50" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/logoNode.png" height="50" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/logoTerraform.png" height="50" />
 </div>
 
 <div align="center">
-  <img src="./images/skills/borda.png" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/borda.png" />
 </div>
 
 ### 📊 GitHub Analytics
@@ -95,7 +95,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 </div>
 
 <div align="center">
-  <img src="./images/skills/borda.png" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/borda.png" />
 </div>
 
 ### 🎮 Fun Visualizations
@@ -106,7 +106,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
     
 ### 🟡 Pac-Man Graph
 
-<img width="1440" src="https://github.com/elizabetefabri/ElizabeteFabri/blob/main/dist/pacman-contribution-graph.svg?sanitize=true">
+<img width="1440" src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/dist/pacman-contribution-graph.svg" />
 
 </td>
 </tr>
@@ -116,7 +116,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 ### 🟡 Grid Snake
 
-<img width="1440" src="grid-snake.svg">
+<img width="1440" src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/grid-snake.svg" />
 
 </td>
 </tr>
