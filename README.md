@@ -17,7 +17,7 @@ I work with a strong focus on **Platform Engineering, DevSecOps, and Software En
 In my free time, I enjoy building intuitive interfaces and exploring personal projects using Angular, Next.js, and AWS.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/borda.png" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/assets/output/borda.png" />
 </div>
 
 ### 💬 Connect with Me
@@ -41,22 +41,22 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/borda.png" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/assets/output/borda.png" />
 </div>
 
 ### ⚡ Tech Stack
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/logoAngular.png" height="50" />
-  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/logoAws.png" height="50" />
-  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/logoGo.png" height="50" />
-  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/logoKubernetes.png" height="50" />
-  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/logoNode.png" height="50" />
-  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/logoTerraform.png" height="50" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/assets/output/logoAngular.png" height="50" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/assets/output/logoAws.png" height="50" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/assets/output/logoGo.png" height="50" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/assets/output/logoKubernetes.png" height="50" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/assets/output/logoNode.png" height="50" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/assets/output/logoTerraform.png" height="50" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/borda.png" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/assets/output/borda.png" />
 </div>
 
 ### 📊 GitHub Analytics
@@ -95,7 +95,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/images/skills/borda.png" />
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/assets/output/borda.png" />
 </div>
 
 ### 🎮 Fun Visualizations
