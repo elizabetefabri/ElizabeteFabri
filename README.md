@@ -102,21 +102,21 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 <table align="center">
 <tr>
-<td align="center">
-
+<td align="left">
+    
 ### 🟡 Pac-Man Graph
 
-<img width="1440" src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/dist/pacman-contribution-graph.svg">
+<img width="1440" src="https://github.com/elizabetefabri/ElizabeteFabri/blob/main/dist/pacman-contribution-graph.svg?sanitize=true">
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="left">
 
-### 🟣 Grid Snake
+### 🟡 Grid Snake
 
-<img width="650" src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/a4a46de16bae5ffe1be7176b543d0dbeb981fad4/grid-snake.svg">
+<img width="1440" src="grid-snake.svg">
 
 </td>
 </tr>
