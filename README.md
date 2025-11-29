@@ -59,6 +59,134 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   <img src=".github/assets/output/borda.png" />
 </div>
 
+### 🎓 Certification
+
+<div align="left">
+
+  <table>
+  <tr>
+    <td align="center">
+      <a 
+        href="https://www.credly.com/users/elizabetefabri" 
+        target="_blank"
+        style="
+          display:inline-block;
+          padding:10px 18px;
+          border:2px solid #CA93F9;
+          border-radius:10px;
+          background:#554961;
+          color:#CA93F9;
+          font-weight:500;
+          text-decoration:none;
+          font-size:14px;
+        "
+      >
+      AWS (CLF-02) 
+      </a>
+    </td>
+    <td align="center">
+      <a 
+        href="https://www.credly.com/users/elizabetefabri" 
+        target="_blank"
+        style="
+          display:inline-block;
+          padding:10px 18px;
+          border:2px solid #CA93F9;
+          border-radius:10px;
+          background:#554961;
+          color:#CA93F9;
+          font-weight:500;
+          text-decoration:none;
+          font-size:14px;
+        "
+      >        
+        AWS (AIF-C01)
+      </a>
+    </td>
+    <td align="center">
+      <a 
+        href="https://www.credly.com/users/elizabetefabri" 
+        target="_blank"
+        style="
+          display:inline-block;
+          padding:10px 18px;
+          border:2px solid #CA93F9;
+          border-radius:10px;
+          background:#554961;
+          color:#CA93F9;
+          font-weight:500;
+          text-decoration:none;
+          font-size:14px;
+        "
+      >      
+       GITHUB
+      </a>
+    </td>
+    <td align="center">
+      <a 
+        href="https://www.credly.com/users/elizabetefabri" 
+        target="_blank"
+        style="
+          display:inline-block;
+          padding:10px 18px;
+          border:2px solid #CA93F9;
+          border-radius:10px;
+          background:#554961;
+          color:#CA93F9;
+          font-weight:500;
+          text-decoration:none;
+          font-size:14px;
+        "
+      >      
+       GOOGLE
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src=".github/assets/output/badgesCertification/aws-clf02.png" height="80" />
+    </td>
+    <td align="center">
+      <img src=".github/assets/output/badgesCertification/aws-aifc01.png" height="80" />
+    </td>
+    <td align="center">
+      <img src=".github/assets/output/badgesCertification/github-foundation.png" height="80" />
+    </td>
+    <td align="center">
+      <img src=".github/assets/output/badgesCertification/google-ace.png" height="80" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+  <img src=".github/assets/output/borda.png" />
+</div>
+
+### 🎓 Academic Background
+
+<div align="left">
+
+#### 📘 Postgraduate Studies
+
+- **Artificial Intelligence and Machine Learning**  
+  _Completed — 2024 • 2025_
+
+- **Cybersecurity**  
+  _In progress — 2025 • 2026_
+
+#### 🎓 Undergraduate Degree
+
+- **Internet Systems**  
+  _Completed — 2019 • 2022_
+
+</div>
+
+<div align="center">
+  <img src=".github/assets/output/borda.png" />
+</div>
+
 ### 📊 GitHub Analytics
 
 <div align="center">
