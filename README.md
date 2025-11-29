@@ -64,98 +64,50 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 <div align="left">
 
   <table>
-  <tr>
-    <td align="center">
-      <a 
-        href="https://www.credly.com/users/elizabetefabri" 
-        target="_blank"
+    <tr>
+      <td align="center">
+        <a href="https://www.credly.com/users/elizabetefabri" target="_blank">
+          <img src="https://img.shields.io/badge/AWS_(CLF--02)-CA93F9?style=for-the-badge&labelColor=554961&color=CA93F9" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/users/elizabetefabri" target="_blank">
+          <img src="https://img.shields.io/badge/AWS_(AIF--C01)-CA93F9?style=for-the-badge&labelColor=554961&color=CA93F9" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/users/elizabetefabri" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-CA93F9?style=for-the-badge&labelColor=554961&color=CA93F9&logo=github&logoColor=CA93F9" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/users/elizabetefabri" 
         style="
-          display:inline-block;
-          padding:10px 18px;
-          border:2px solid #CA93F9;
-          border-radius:10px;
-          background:#554961;
-          color:#CA93F9;
-          font-weight:500;
-          text-decoration:none;
-          font-size:14px;
-        "
-      >
-      AWS (CLF-02) 
-      </a>
-    </td>
-    <td align="center">
-      <a 
-        href="https://www.credly.com/users/elizabetefabri" 
-        target="_blank"
-        style="
-          display:inline-block;
-          padding:10px 18px;
-          border:2px solid #CA93F9;
-          border-radius:10px;
-          background:#554961;
-          color:#CA93F9;
-          font-weight:500;
-          text-decoration:none;
-          font-size:14px;
-        "
-      >        
-        AWS (AIF-C01)
-      </a>
-    </td>
-    <td align="center">
-      <a 
-        href="https://www.credly.com/users/elizabetefabri" 
-        target="_blank"
-        style="
-          display:inline-block;
-          padding:10px 18px;
-          border:2px solid #CA93F9;
-          border-radius:10px;
-          background:#554961;
-          color:#CA93F9;
-          font-weight:500;
-          text-decoration:none;
-          font-size:14px;
-        "
-      >      
-       GITHUB
-      </a>
-    </td>
-    <td align="center">
-      <a 
-        href="https://www.credly.com/users/elizabetefabri" 
-        target="_blank"
-        style="
-          display:inline-block;
-          padding:10px 18px;
-          border:2px solid #CA93F9;
-          border-radius:10px;
-          background:#554961;
-          color:#CA93F9;
-          font-weight:500;
-          text-decoration:none;
-          font-size:14px;
-        "
-      >      
-       GOOGLE
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src=".github/assets/output/badgesCertification/aws-clf02.png" height="80" />
-    </td>
-    <td align="center">
-      <img src=".github/assets/output/badgesCertification/aws-aifc01.png" height="80" />
-    </td>
-    <td align="center">
-      <img src=".github/assets/output/badgesCertification/github-foundation.png" height="80" />
-    </td>
-    <td align="center">
-      <img src=".github/assets/output/badgesCertification/google-ace.png" height="80" />
-    </td>
-  </tr>
+       display:inline-block;
+       padding:6px;
+       border:2px solid #CA93F9;
+       border-radius:10px;
+     "
+  >
+        target="_blank">
+          <img src="https://img.shields.io/badge/Google-CA93F9?style=for-the-badge&labelColor=554961&color=CA93F9&logo=google-cloud&logoColor=CA93F9" />
+        </a>
+      </td>
+    </tr>  
+    <tr>
+      <td align="center">
+        <img src=".github/assets/output/badgesCertification/aws-clf02.png" height="80" />
+      </td>
+      <td align="center">
+        <img src=".github/assets/output/badgesCertification/aws-aifc01.png" height="80" />
+      </td>
+      <td align="center">
+        <img src=".github/assets/output/badgesCertification/github-foundation.png" height="80" />
+      </td>
+      <td align="center">
+        <img src=".github/assets/output/badgesCertification/google-ace.png" height="80" />
+      </td>
+    </tr>
 </table>
 
 </div>
