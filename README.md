@@ -23,21 +23,23 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 ### 💬 Connect with Me
 
 <div align="left">
+
   <a href="https://www.linkedin.com/in/elizabetefabri/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FF8899?style=for-the-badge&logo=linkedin&logoColor=gray">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-FF8899?style=for-the-badge&labelColor=554961&color=FF8899&logo=linkedin&logoColor=FF8899" />
   </a>
   <a href="https://github.com/elizabetefabri" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-FF8899?style=for-the-badge&logo=github&logoColor=gray">
+    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-FF8899?style=for-the-badge&labelColor=554961&color=FF8899&logo=github&logoColor=FF8899" />
   </a>
   <a href="mailto:elizabetesousafabri@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-FF8899?style=for-the-badge&logo=gmail&logoColor=gray">
+    <img src="https://custom-icon-badges.demolab.com/badge/Gmail-FF8899?style=for-the-badge&labelColor=554961&color=FF8899&logo=gmail&logoColor=FF8899" />
   </a>
   <a href="https://www.instagram.com/elizabetefabrii/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF8899?style=for-the-badge&logo=instagram&logoColor=gray">
+    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-FF8899?style=for-the-badge&labelColor=554961&color=FF8899&logo=instagram&logoColor=FF8899" />
   </a>
   <a href="https://twitter.com/elizabetefabrii" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-FF8899?style=for-the-badge&logo=x&logoColor=gray">
+    <img src="https://custom-icon-badges.demolab.com/badge/Twitter-FF8899?style=for-the-badge&labelColor=554961&color=FF8899&logo=x&logoColor=FF8899" />
   </a>
+
 </div>
 
 <div align="center">
@@ -62,34 +64,25 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 ### 🎓 Certification
 
 <div align="left">
-
   <table>
     <tr>
       <td align="center">
         <a href="https://www.credly.com/users/elizabetefabri" target="_blank">
-          <img src="https://img.shields.io/badge/AWS_(CLF--02)-CA93F9?style=for-the-badge&labelColor=554961&color=CA93F9" />
+          <img src="https://custom-icon-badges.demolab.com/badge/AWS_(CLF--02)-FF8899?style=for-the-badge&labelColor=554961&color=FF8899&logo=aws&logoColor=FF8899" />
         </a>
       </td>
       <td align="center">
         <a href="https://www.credly.com/users/elizabetefabri" target="_blank">
-          <img src="https://img.shields.io/badge/AWS_(AIF--C01)-CA93F9?style=for-the-badge&labelColor=554961&color=CA93F9" />
+          <img src="https://custom-icon-badges.demolab.com/badge/AWS_(AIF--C01)-FF8899?style=for-the-badge&labelColor=554961&color=FF8899&logo=aws&logoColor=FF8899" />
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/users/elizabetefabri" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-FF8899?style=for-the-badge&labelColor=554961&color=FF8899&logo=github&logoColor=FF8899" />
         </a>
       </td>
       <td align="center">
         <a href="https://www.credly.com/users/elizabetefabri" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-CA93F9?style=for-the-badge&labelColor=554961&color=CA93F9&logo=github&logoColor=CA93F9" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.credly.com/users/elizabetefabri" 
-        style="
-          display:inline-block;
-          padding:6px;
-          border:2px solid #CA93F9;
-          border-radius:10px;
-        "
-        target="_blank">
-          <img src="https://img.shields.io/badge/Google-CA93F9?style=for-the-badge&labelColor=554961&color=CA93F9&logo=google-cloud&logoColor=CA93F9" />
+          <img src="https://img.shields.io/badge/Google-FF8899?style=for-the-badge&labelColor=554961&color=FF8899&logo=google-cloud&logoColor=FF8899" />
         </a>
       </td>
     </tr>  
@@ -107,8 +100,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
         <img src=".github/assets/output/badgesCertification/google-ace.png" height="80" />
       </td>
     </tr>
-</table>
-
+  </table>
 </div>
 
 <div align="center">
