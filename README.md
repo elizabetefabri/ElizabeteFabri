@@ -83,12 +83,11 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
       <td align="center">
         <a href="https://www.credly.com/users/elizabetefabri" 
         style="
-       display:inline-block;
-       padding:6px;
-       border:2px solid #CA93F9;
-       border-radius:10px;
-     "
-  >
+          display:inline-block;
+          padding:6px;
+          border:2px solid #CA93F9;
+          border-radius:10px;
+        "
         target="_blank">
           <img src="https://img.shields.io/badge/Google-CA93F9?style=for-the-badge&labelColor=554961&color=CA93F9&logo=google-cloud&logoColor=CA93F9" />
         </a>
