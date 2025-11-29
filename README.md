@@ -24,20 +24,21 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 <div align="left">
 
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/elizabetefabri/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-FF8899?style=for-the-badge&labelColor=554961&color=FF8899&logo=linkedin&logoColor=FF8899" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-FF8899?style=for-the-badge&labelColor=ff8899&logo=linkedin&logoColor=554961&color=FF8899&textColor=ffffff" />
   </a>
   <a href="https://github.com/elizabetefabri" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-FF8899?style=for-the-badge&labelColor=554961&color=FF8899&logo=github&logoColor=FF8899" />
+    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-FF8899?style=for-the-badge&labelColor=ff8899&logo=github&logoColor=554961&color=FF8899&textColor=ffffff" />
   </a>
   <a href="mailto:elizabetesousafabri@gmail.com" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Gmail-FF8899?style=for-the-badge&labelColor=554961&color=FF8899&logo=gmail&logoColor=FF8899" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Gmail-FF8899?style=for-the-badge&labelColor=ff8899&logo=gmail&logoColor=554961&color=FF8899&textColor=ffffff" />
   </a>
   <a href="https://www.instagram.com/elizabetefabrii/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-FF8899?style=for-the-badge&labelColor=554961&color=FF8899&logo=instagram&logoColor=FF8899" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-FF8899?style=for-the-badge&labelColor=ff8899&logo=instagram&logoColor=554961&color=FF8899&textColor=ffffff" />
   </a>
   <a href="https://twitter.com/elizabetefabrii" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Twitter-FF8899?style=for-the-badge&labelColor=554961&color=FF8899&logo=x&logoColor=FF8899" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Twitter-FF8899?style=for-the-badge&labelColor=ff8899&logo=x&logoColor=554961&color=FF8899&textColor=ffffff" />
   </a>
 
 </div>
