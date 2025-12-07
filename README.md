@@ -95,10 +95,10 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
         <img src=".github/assets/output/badgesCertification/aws-aifc01.png" height="80" />
       </td>
       <td align="center">
-        <img src=".github/assets/output/badgesCertification/github-foundation.png" height="180" />
+        <img src=".github/assets/output/badgesCertification/github-foundation.png" height="120" />
       </td>
       <td align="center">
-        <img src=".github/assets/output/badgesCertification/google-ace.png" height="80" />
+        <img src=".github/assets/output/badgesCertification/google-ace.png" height="120" />
       </td>
     </tr>
   </table>
