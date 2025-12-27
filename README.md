@@ -62,7 +62,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   <img src=".github/assets/output/borda.png" />
 </div>
 
-### 🎓 Certification
+<!-- ### 🎓 Certification
 
 <div align="left">
   <table>
@@ -89,16 +89,16 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
     </tr>  
     <tr>
       <td align="center">
-        <img src=".github/assets/output/badgesCertification/aws-clf02.png" height="80" />
+        <img src=".github/assets/output/badgesCertification/aws-clf02.png" height="100" />
       </td>
       <td align="center">
-        <img src=".github/assets/output/badgesCertification/aws-aifc01.png" height="80" />
+        <img src=".github/assets/output/badgesCertification/aws-aifc01.png" height="100" />
       </td>
       <td align="center">
-        <img src=".github/assets/output/badgesCertification/github-foundation.png" width="160" />
+        <img src=".github/assets/output/badgesCertification/github-foundation.png" width="100" />
       </td>
       <td align="center">
-        <img src=".github/assets/output/badgesCertification/google-ace.png" height="160" />
+        <img src=".github/assets/output/badgesCertification/google-ace.png" height="100" />
       </td>
     </tr>
   </table>
@@ -106,7 +106,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 <div align="center">
   <img src=".github/assets/output/borda.png" />
-</div>
+</div> -->
 
 ### 🎓 Academic Background
 
@@ -198,7 +198,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 ![Visitors](https://komarev.com/ghpvc/?username=elizabetefabri&color=FF8899&style=for-the-badge&label=VISITORS&logo=ko-fi&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=elizabetefabri&label=PROFILE+VIEWS&style=for-the-badge&color=FF8899&logo=ko-fi&logoColor=white)
-[![portfolio](https://img.shields.io/badge/My_-_Portfolio-ff8899?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/My_-_Portfolio-ff8899?style=for-the-badge&logo=ko-fi&logoColor=white)](https://elizabetesousafabri.com.br/)
 
 </div>
 
