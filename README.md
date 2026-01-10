@@ -26,7 +26,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   <img src=".github/assets/output/borda.png" />
 </div>
 
-### 💬 Connect with Me
+### Connect with Me
 
 <div align="left">
   <!-- LinkedIn -->
@@ -47,11 +47,12 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   </a>
 </div>
 
+<br/>
 <div align="center">
   <img src=".github/assets/output/borda.png" />
 </div>
 
-### ⚡ Tech Stack
+### Tech Stack
 
 <div align="left">
   <img src=".github/assets/output/logoAngular.png" height="50" alt="angular" />
@@ -62,11 +63,12 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   <img src=".github/assets/output/logoTerraform.png" height="50" alt="terraform" />
 </div>
 
+<br/>
 <div align="center">
   <img src=".github/assets/output/borda.png" />
 </div>
 
-### 📚 Base de Estudos & Aprendizado Contínuo
+### Base de Estudos & Aprendizado Contínuo
 
 > Repositórios voltados ao aprendizado contínuo, organização de conhecimento e planejamento de evolução técnica, incluindo estudos, certificações e materiais de referência.
 
@@ -113,7 +115,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   </tbody>
 </table>
 
-### ✨ Portfólio de Projetos em Destaque
+### Portfólio de Projetos em Destaque
 
 > Projetos que representam minha evolução técnica, foco em Frontend, Platform Engineering, Cloud e boas práticas de engenharia de software.
 
@@ -242,7 +244,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   <img src=".github/assets/output/borda.png" />
 </div> -->
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 
@@ -289,9 +291,8 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 <td align="left">
     
 ### 🟡 Pac-Man Graph
-<br/>
+
 <img width="1440" src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/dist/pacman-contribution-graph.svg" />
-<br/>
 
 </td>
 </tr>
@@ -301,7 +302,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 ### 🟡 Grid Snake
 
-<br/>
+
 <img width="1440" src=".github/assets/output/grid-snake.svg" />
 <br/>
 </td>
