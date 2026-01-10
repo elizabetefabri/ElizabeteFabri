@@ -3,7 +3,7 @@ name: Generate README Cards (SVG)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */12 * * *" # a cada 12h
+    - cron: "0 */12 * * *"
 
 concurrency:
   group: readme-cards
@@ -15,7 +15,6 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -42,17 +41,16 @@ jobs:
 
             # valida se parece SVG
             if ! head -n 5 "$tmp" | grep -qiE '(<svg|<\?xml)'; then
-              echo "⚠️ Invalid SVG (probably HTML). Keeping previous: $final"
+              echo "⚠️ Invalid SVG (probably HTML). Not updating: $final"
               echo "---- tmp head ----"
-              head -n 20 "$tmp" || true
+              head -n 25 "$tmp" || true
               rm -f "$tmp"
               return 0
             fi
 
-            # evita arquivos minúsculos (tipo 99 bytes)
             bytes=$(wc -c < "$tmp" | tr -d ' ')
             if [ "$bytes" -lt 800 ]; then
-              echo "⚠️ SVG too small ($bytes bytes). Keeping previous: $final"
+              echo "⚠️ SVG too small ($bytes bytes). Not updating: $final"
               rm -f "$tmp"
               return 0
             fi
@@ -61,28 +59,26 @@ jobs:
             echo "✅ Updated: $final"
           }
 
-          # 1) GitHub Streak (seu Vercel)
-          STREAK_URL="https://github-stats-elizabete.vercel.app/?user=elizabetefabri&theme=dracula&locale=pt_BR"
+          # 1) Streak (SEU Vercel)
+          STREAK_URL="https://github-stats-elizabete.vercel.app/?user=elizabetefabri&theme=dracula&locale=pt_BR&type=svg"
           fetch_svg_safe "$STREAK_URL" ".github/assets/output/streak.svg"
 
-          # 2) GitHub Readme Stats (se você também auto-hospedar depois, troque a BASE_URL)
-          # Por enquanto deixei com github-readme-stats público como exemplo.
-          # Se ele estiver pausado, o fallback impede sobrescrever seu SVG bom.
-          STATS_URL="https://github-readme-stats.vercel.app/api?username=elizabetefabri&show_icons=true&theme=tokyonight&cache_seconds=21600"
-          fetch_svg_safe "$STATS_URL" ".github/assets/output/stats.svg"
-
-          TOP_LANGS_URL="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabetefabri&layout=compact&theme=tokyonight&cache_seconds=21600"
-          fetch_svg_safe "$TOP_LANGS_URL" ".github/assets/output/top-langs.svg"
-
-          # 3) Activity Graph (com a config que você pediu)
+          # 2) Activity Graph (com sua config)
           ACTIVITY_GRAPH_URL="https://github-readme-activity-graph.vercel.app/graph?username=elizabetefabri&bg_color=1F222E&color=ff8899&border_color=ff8899&title_color=ff8888&line=ff8899&point=fefefe&area=true&hide_border=false"
           fetch_svg_safe "$ACTIVITY_GRAPH_URL" ".github/assets/output/activity-graph.svg"
+
+          # 3) (DESLIGADO) GitHub Readme Stats público está pausado.
+          # Quando você self-host o github-readme-stats, a gente liga de novo:
+          # STATS_URL="https://SEU-README-STATS.vercel.app/api?username=elizabetefabri&show_icons=true&theme=tokyonight"
+          # fetch_svg_safe "$STATS_URL" ".github/assets/output/stats.svg"
+          #
+          # TOP_LANGS_URL="https://SEU-README-STATS.vercel.app/api/top-langs/?username=elizabetefabri&layout=compact&theme=tokyonight"
+          # fetch_svg_safe "$TOP_LANGS_URL" ".github/assets/output/top-langs.svg"
 
       - name: Commit and push if changed
         shell: bash
         run: |
           set -euo pipefail
-
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
