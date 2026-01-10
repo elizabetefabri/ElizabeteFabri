@@ -16,6 +16,13 @@ I’m a **Software Engineer at Itaú Unibanco**, passionate about technology, au
 I work with a strong focus on **Platform Engineering, DevSecOps, and Software Engineering**, combining performance, security, and innovation.  
 In my free time, I enjoy building intuitive interfaces and exploring personal projects using Angular, Next.js, and AWS.
 
+
+✨ **Explore My Professional & Personal Portfolio**
+
+> Discover my personal platform, where I showcase professional projects, personal initiatives, and my journey in Software Engineering, Platform Engineering, and Cloud technologies.
+
+**Access my portfolio:** https://elizabetesousafabri.com.br/
+
 <div align="center">
   <img src=".github/assets/output/borda.png" />
 </div>
@@ -69,7 +76,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 <table>
   <thead>
     <tr align="left">
-      <th>Nº</th>
+      <th>º</th>
       <th>Projeto</th>
       <th>Tipo</th>
       <th>Stack</th>
@@ -81,43 +88,66 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
   <tbody align="left">
     <tr>
-      <td>01</td>
-      <td>Personal Platform</td>
-      <td>Frontend</td>
-      <td>Next.js · TypeScript</td>
-      <td>Site pessoal para apresentação profissional e portfólio.</td>
+      <td>📒</td>
+      <h3>
+        <td>Acervo de Estudos e Aprendizado Contínuo</td>
+      </h3>
+      <td>Study / Reference</td>
+      <td>PDF · Docs</td>
+      <td>Repositório com livros e materiais em PDF destinados a estudos, aprofundamento técnico e evolução contínua em engenharia de software.</td>
       <td align="center">
-        <a href="https://github.com/seu-usuario/personal-platform" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20GitHub-1F1F1F?style=for-the-badge" width="120px">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://seudominio.com.br" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Deploy-EA580C?style=for-the-badge" width="120px">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>IUDev Docs</td>
-      <td>Study / Docs</td>
-      <td>Next.js · Markdown</td>
-      <td>Documentação técnica para onboarding e uso da plataforma.</td>
-      <td align="center">
-        <a href="https://github.com/seu-usuario/iudev-docs" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20GitHub-1F1F1F?style=for-the-badge" width="120px">
+        <a href="https://github.com/elizabetefabri/engineering-library-pdfs" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20GitHub-1F1F1F?style=for-the-badge" width="200px">
         </a>
       </td>
       <td align="center">
         <span>-</span>
       </td>
     </tr>
+   <tr>
+      <td>🎯</td>
+      <td>Roadmap de Certificações e Estudos Técnicos</td>
+      <td>Study / Roadmap</td>
+      <td>Docs · Markdown · Study Plan</td>
+      <td>Projeto pessoal com documentações, exercícios e guias práticos sobre como se preparar e conquistar certificações em engenharia de software e cloud.</td>
+      <td align="center">
+        <a href="https://github.com/elizabetefabri/engineering-certification-roadmap" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20GitHub-1F1F1F?style=for-the-badge" width="200px">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://seudominio.com.br" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Deploy-EA580C?style=for-the-badge" width="200px">
+        </a>
+      </td>
+    </tr>
+    <tr>
+    <td>✨</td>
+      <td>Plataforma Pessoal & Portfólio</td>
+      <td>Frontend</td>
+      <td>Next.js · TypeScript</td>
+      <td>Plataforma pessoal desenvolvida em Next.js para centralizar meu portfólio, separando projetos pessoais e profissionais.</td>
+      <td align="center">
+    <a href="https://github.com/elizabetefabri/personal-platform" target="_blank">
+      <img src="https://img.shields.io/badge/Ver%20GitHub-1F1F1F?style=for-the-badge" width="200px">
+    </a>
+  </td>
+  <td align="center">
+    <a href="http://elizabetesousafabri.com.br/projects/portfolio-personal/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfólio%20Pessoal-2563EB?style=for-the-badge" width="200px">
+    </a>
+    <br/><br/>
+    <a href="http://elizabetesousafabri.com.br/projects/portfolio-profissional/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfólio%20Profissional-EA580C?style=for-the-badge" width="200px">
+    </a>
+  </td>
+    </tr>
   </tbody>
 </table>
 
 <div align="center">
   <img src=".github/assets/output/borda.png" />
-</div> 
+</div>
 
 <!-- ### 🎓 Certification
 
@@ -143,7 +173,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
           <img src="https://img.shields.io/badge/Google-FF8899?style=for-the-badge&labelColor=554961&color=FF8899&logo=google-cloud&logoColor=FF8899" />
         </a>
       </td>
-    </tr>  
+    </tr>
     <tr>
       <td align="center">
         <img src=".github/assets/output/badgesCertification/aws-clf02.png" height="100" />
@@ -171,15 +201,15 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 #### 📘 Postgraduate Studies
 
-- **Artificial Intelligence and Machine Learning**  
+- **Artificial Intelligence and Machine Learning**
   _Completed — 2024 • 2025_
 
-- **Cybersecurity**  
+- **Cybersecurity**
   _In progress — 2025 • 2026_
 
 #### 🎓 Undergraduate Degree
 
-- **Internet Systems**  
+- **Internet Systems**
   _Completed — 2019 • 2022_
 
 </div>
