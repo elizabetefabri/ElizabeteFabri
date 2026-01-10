@@ -16,12 +16,11 @@ I’m a **Software Engineer at Itaú Unibanco**, passionate about technology, au
 I work with a strong focus on **Platform Engineering, DevSecOps, and Software Engineering**, combining performance, security, and innovation.  
 In my free time, I enjoy building intuitive interfaces and exploring personal projects using Angular, Next.js, and AWS.
 
-
 ✨ **Explore My Professional & Personal Portfolio**
 
 > Discover my personal platform, where I showcase professional projects, personal initiatives, and my journey in Software Engineering, Platform Engineering, and Cloud technologies.
 
-**Access my portfolio:** https://elizabetesousafabri.com.br/
+**Portfolio:** https://elizabetesousafabri.com.br/
 
 <div align="center">
   <img src=".github/assets/output/borda.png" />
@@ -30,24 +29,22 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 ### 💬 Connect with Me
 
 <div align="left">
-
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/elizabetefabri/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-FF8899?style=for-the-badge&labelColor=ff8899&logo=linkedin&logoColor=554961&color=FF8899&textColor=ffffff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-FF8899?style=for-the-badge&labelColor=ff8899&logo=linkedin&logoColor=554961&color=FF8899&textColor=ffffff" alt="icone-link" />
   </a>
   <a href="https://github.com/elizabetefabri" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-FF8899?style=for-the-badge&labelColor=ff8899&logo=github&logoColor=554961&color=FF8899&textColor=ffffff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-FF8899?style=for-the-badge&labelColor=ff8899&logo=github&logoColor=554961&color=FF8899&textColor=ffffff" alt="github"/>
   </a>
   <a href="mailto:elizabetesousafabri@gmail.com" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Gmail-FF8899?style=for-the-badge&labelColor=ff8899&logo=gmail&logoColor=554961&color=FF8899&textColor=ffffff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Gmail-FF8899?style=for-the-badge&labelColor=ff8899&logo=gmail&logoColor=554961&color=FF8899&textColor=ffffff" alt="email"/>
   </a>
   <a href="https://www.instagram.com/elizabetefabrii/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-FF8899?style=for-the-badge&labelColor=ff8899&logo=instagram&logoColor=554961&color=FF8899&textColor=ffffff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-FF8899?style=for-the-badge&labelColor=ff8899&logo=instagram&logoColor=554961&color=FF8899&textColor=ffffff" alt="instagram"/>
   </a>
   <a href="https://twitter.com/elizabetefabrii" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Twitter-FF8899?style=for-the-badge&labelColor=ff8899&logo=x&logoColor=554961&color=FF8899&textColor=ffffff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Twitter-FF8899?style=for-the-badge&labelColor=ff8899&logo=x&logoColor=554961&color=FF8899&textColor=ffffff" alt="twitter"/>
   </a>
-
 </div>
 
 <div align="center">
@@ -57,21 +54,21 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 ### ⚡ Tech Stack
 
 <div align="left">
-  <img src=".github/assets/output/logoAngular.png" height="50" />
-  <img src=".github/assets/output/logoAws.png" height="50" />
-  <img src=".github/assets/output/logoGo.png" height="50" />
-  <img src=".github/assets/output/logoKubernetes.png" height="50" />
-  <img src=".github/assets/output/logoNode.png" height="50" />
-  <img src=".github/assets/output/logoTerraform.png" height="50" />
+  <img src=".github/assets/output/logoAngular.png" height="50" alt="angular" />
+  <img src=".github/assets/output/logoAws.png" height="50" alt="aws" />
+  <img src=".github/assets/output/logoGo.png" height="50" alt="go" />
+  <img src=".github/assets/output/logoKubernetes.png" height="50" alt="kubernetes" />
+  <img src=".github/assets/output/logoNode.png" height="50" alt="nodejs" />
+  <img src=".github/assets/output/logoTerraform.png" height="50" alt="terraform" />
 </div>
 
 <div align="center">
   <img src=".github/assets/output/borda.png" />
 </div>
 
-### ✨ Portfólio de Projetos em Destaque
+### 📚 Base de Estudos & Aprendizado Contínuo
 
-> Projetos que representam minha evolução técnica, foco em Frontend, Platform Engineering, Cloud e boas práticas de engenharia de software.
+> Repositórios voltados ao aprendizado contínuo, organização de conhecimento e planejamento de evolução técnica, incluindo estudos, certificações e materiais de referência.
 
 <table>
   <thead>
@@ -85,13 +82,10 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
       <th>Deploy</th>
     </tr>
   </thead>
-
   <tbody align="left">
     <tr>
       <td>📒</td>
-      <h3>
-        <td>Acervo de Estudos e Aprendizado Contínuo</td>
-      </h3>
+      <td align="center"><b>Acervo de Estudos e Aprendizado Contínuo</b></td>
       <td>Study / Reference</td>
       <td>PDF · Docs</td>
       <td>Repositório com livros e materiais em PDF destinados a estudos, aprofundamento técnico e evolução contínua em engenharia de software.</td>
@@ -100,13 +94,11 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
           <img src="https://img.shields.io/badge/Ver%20GitHub-1F1F1F?style=for-the-badge" width="200px">
         </a>
       </td>
-      <td align="center">
-        <span>-</span>
-      </td>
+      <td align="center"><span>-</span></td>
     </tr>
    <tr>
       <td>🎯</td>
-      <td>Roadmap de Certificações e Estudos Técnicos</td>
+      <td align="center"><b>Roadmap de Certificações e Estudos Técnicos</b></td>
       <td>Study / Roadmap</td>
       <td>Docs · Markdown · Study Plan</td>
       <td>Projeto pessoal com documentações, exercícios e guias práticos sobre como se preparar e conquistar certificações em engenharia de software e cloud.</td>
@@ -121,26 +113,61 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
         </a>
       </td>
     </tr>
+  </tbody>
+</table>
+
+### ✨ Portfólio de Projetos em Destaque
+
+> Projetos que representam minha evolução técnica, foco em Frontend, Platform Engineering, Cloud e boas práticas de engenharia de software.
+
+<table>
+  <thead>
     <tr>
-    <td>✨</td>
-      <td>Plataforma Pessoal & Portfólio</td>
-      <td>Frontend</td>
-      <td>Next.js · TypeScript</td>
-      <td>Plataforma pessoal desenvolvida em Next.js para centralizar meu portfólio, separando projetos pessoais e profissionais.</td>
+      <th>º</th>
+      <th>Projeto</th>
+      <th>Descrição</th>
+      <th>GitHub</th>
+      <th>Portfólio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Portfólio Pessoal -->
+    <tr>
+      <td>✨</td>
+      <td align="center"><b>Portfólio Pessoal</b></td>
+      <td>
+        Espaço dedicado a projetos pessoais, estudos, experimentações técnicas
+        e iniciativas criativas desenvolvidas ao longo da minha jornada.
+      </td>
       <td align="center">
-    <a href="https://github.com/elizabetefabri/personal-platform" target="_blank">
-      <img src="https://img.shields.io/badge/Ver%20GitHub-1F1F1F?style=for-the-badge" width="200px">
-    </a>
-  </td>
-  <td align="center">
-    <a href="http://elizabetesousafabri.com.br/projects/portfolio-personal/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfólio%20Pessoal-2563EB?style=for-the-badge" width="200px">
-    </a>
-    <br/><br/>
-    <a href="http://elizabetesousafabri.com.br/projects/portfolio-profissional/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfólio%20Profissional-EA580C?style=for-the-badge" width="200px">
-    </a>
-  </td>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20GitHub-1F1F1F?style=for-the-badge" width="200px">
+        </a>
+      </td>
+      <td align="center">
+        <a href="http://elizabetesousafabri.com.br/projects/portfolio-personal/" target="_blank">
+          <img src="https://img.shields.io/badge/Portfólio%20Pessoal-2563EB?style=for-the-badge" width="200px">
+        </a>
+      </td>
+    </tr>
+    <!-- Portfólio Profissional -->
+    <tr>
+      <td>✨</td>
+      <td align="center"><b>Portfólio Profissional</b></td>
+      <td>
+        Portfólio focado em projetos profissionais, experiências corporativas,
+        soluções técnicas e evolução na engenharia de software.
+      </td>
+      <td align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20GitHub-1F1F1F?style=for-the-badge" width="200px">
+        </a>
+      </td>
+      <td align="center">
+        <a href="http://elizabetesousafabri.com.br/projects/portfolio-profissional/" target="_blank">
+          <img src="https://img.shields.io/badge/Portfólio%20Profissional-EA580C?style=for-the-badge" width="200px">
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -227,8 +254,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 <td align="center">
 
 **Stats**
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=elizabetefabri&show_icons=true&theme=tokyonight&title_color=ff8888&icon_color=ff8899&text_color=d9d9d9&bg_color=1F222E&border_color=ff8899" />
+<img src=".github/assets/output/stats.svg" />
 
 </td>
 <td align="center">
@@ -257,15 +283,16 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   <img src=".github/assets/output/borda.png" />
 </div>
 
-### 🎮 Fun Visualizations
+### Fun Visualizations
 
 <table align="center">
 <tr>
 <td align="left">
     
 ### 🟡 Pac-Man Graph
-
+<br/>
 <img width="1440" src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/dist/pacman-contribution-graph.svg" />
+<br/>
 
 </td>
 </tr>
@@ -274,23 +301,31 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 <td align="left">
 
 ### 🟡 Grid Snake
-
+<br/>
 <img width="1440" src=".github/assets/output/grid-snake.svg" />
-
+<br/>
 </td>
 </tr>
 </table>
 
 <div align="left">
 
-![Visitors](https://komarev.com/ghpvc/?username=elizabetefabri&color=FF8899&style=for-the-badge&label=VISITORS&logo=ko-fi&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=elizabetefabri&label=PROFILE+VIEWS&style=for-the-badge&color=FF8899&logo=ko-fi&logoColor=white)
 [![portfolio](https://img.shields.io/badge/My_-_Portfolio-ff8899?style=for-the-badge&logo=ko-fi&logoColor=white)](https://elizabetesousafabri.com.br/)
+![Visitors](https://komarev.com/ghpvc/?username=elizabetefabri&color=FF8899&style=for-the-badge&label=VISITORS&logo=ko-fi&logoColor=white)
 
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  <sub><i>"Nada substitui a persistência, nem mesmo o talento." — Calvin Coolidge</i></sub>
+  <img src=".github/assets/output/borda.png" />
 </div>
+
+<div align="center">
+<br/>
+  <p>This repository is constantly evolving, just like my professional journey.</p>
+
+  <sub><i>Desenvolvido por Elizabete Fabri ❤️</i></sub>
+  <br/>
+  <sub><i>"Nada substitui a persistência, nem mesmo o talento." — Calvin Coolidge</i></sub>
+  <br/><br/>
+</div>
+
