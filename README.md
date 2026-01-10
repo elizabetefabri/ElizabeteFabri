@@ -119,7 +119,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 <table>
   <thead>
-    <tr>
+    <tr align="left">
       <th>º</th>
       <th>Projeto</th>
       <th>Descrição</th>
@@ -298,6 +298,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 <td align="left">
 
 ### 🟡 Grid Snake
+
 <br/>
 <img width="1440" src=".github/assets/output/grid-snake.svg" />
 <br/>
@@ -320,9 +321,9 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 <br/>
   <p>This repository is constantly evolving, just like my professional journey.</p>
 
-  <sub><i>Desenvolvido por Elizabete Fabri ❤️</i></sub>
-  <br/>
-  <sub><i>"Nada substitui a persistência, nem mesmo o talento." — Calvin Coolidge</i></sub>
-  <br/><br/>
-</div>
+<sub><i>Desenvolvido por Elizabete Fabri ❤️</i></sub>
+<br/>
+<sub><i>"Nada substitui a persistência, nem mesmo o talento." — Calvin Coolidge</i></sub>
+<br/><br/>
 
+</div>
