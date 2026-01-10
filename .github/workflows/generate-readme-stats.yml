@@ -97,13 +97,18 @@ jobs:
           fetch_svg_safe "$ACTIVITY_GRAPH_URL" ".github/assets/output/activity-graph.svg"
           echo ""
 
-          # 📋 INFORMAÇÃO: Próximas opções
-          echo "ℹ️  Opções disponíveis quando self-host github-readme-stats:"
+          # ✅ FUNCIONAL: GitHub Stats (seu fork)
+          echo "3️⃣  GitHub Stats (seu fork)"
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-          echo "Para adicionar Stats e Top Languages, faça:"
-          echo "1. Fork: https://github.com/anuraghazra/github-readme-stats"
-          echo "2. Deploy no seu Vercel"
-          echo "3. Descomente as linhas 105-112 neste arquivo"
+          STATS_URL="https://github-readme-stats-sigma-ten-59.vercel.app/api?username=elizabetefabri&show_icons=true&theme=tokyonight&cache_seconds=21600"
+          fetch_svg_safe "$STATS_URL" ".github/assets/output/stats.svg"
+          echo ""
+
+          # ✅ FUNCIONAL: Top Languages (seu fork)
+          echo "4️⃣  Top Languages (seu fork)"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          TOP_LANGS_URL="https://github-readme-stats-sigma-ten-59.vercel.app/api/top-langs/?username=elizabetefabri&layout=compact&theme=tokyonight&cache_seconds=21600"
+          fetch_svg_safe "$TOP_LANGS_URL" ".github/assets/output/top-langs.svg"
           echo ""
 
           echo "╔════════════════════════════════════════════════════════════╗"
