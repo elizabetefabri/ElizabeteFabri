@@ -62,6 +62,63 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   <img src=".github/assets/output/borda.png" />
 </div>
 
+### ✨ Portfólio de Projetos em Destaque
+
+> Projetos que representam minha evolução técnica, foco em Frontend, Platform Engineering, Cloud e boas práticas de engenharia de software.
+
+<table>
+  <thead>
+    <tr align="left">
+      <th>Nº</th>
+      <th>Projeto</th>
+      <th>Tipo</th>
+      <th>Stack</th>
+      <th>Descrição</th>
+      <th>Repositório</th>
+      <th>Deploy</th>
+    </tr>
+  </thead>
+
+  <tbody align="left">
+    <tr>
+      <td>01</td>
+      <td>Personal Platform</td>
+      <td>Frontend</td>
+      <td>Next.js · TypeScript</td>
+      <td>Site pessoal para apresentação profissional e portfólio.</td>
+      <td align="center">
+        <a href="https://github.com/seu-usuario/personal-platform" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20GitHub-1F1F1F?style=for-the-badge" width="120px">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://seudominio.com.br" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Deploy-EA580C?style=for-the-badge" width="120px">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>IUDev Docs</td>
+      <td>Study / Docs</td>
+      <td>Next.js · Markdown</td>
+      <td>Documentação técnica para onboarding e uso da plataforma.</td>
+      <td align="center">
+        <a href="https://github.com/seu-usuario/iudev-docs" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20GitHub-1F1F1F?style=for-the-badge" width="120px">
+        </a>
+      </td>
+      <td align="center">
+        <span>-</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div align="center">
+  <img src=".github/assets/output/borda.png" />
+</div> 
+
 <!-- ### 🎓 Certification
 
 <div align="left">
@@ -108,7 +165,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   <img src=".github/assets/output/borda.png" />
 </div> -->
 
-### 🎓 Academic Background
+<!-- ### 🎓 Academic Background
 
 <div align="left">
 
@@ -129,7 +186,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 <div align="center">
   <img src=".github/assets/output/borda.png" />
-</div>
+</div> -->
 
 ### 📊 GitHub Analytics
 
