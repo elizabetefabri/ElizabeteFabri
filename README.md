@@ -250,15 +250,17 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 <tr>
 <td align="center">
 
+<img src=".github/assets/output/activity-graph.svg" />
+
 **Stats**
-<img src=".github/assets/output/stats.svg" />
+<img height="160em" src=".github/assets/output/stats.svg" />
 
 </td>
 <td align="center">
 
 **Top Languages**
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabetefabri&layout=compact&theme=tokyonight&title_color=ff8888&text_color=d9d9d9&bg_color=1F222E&border_color=ff8899" />
+<img height="160em" src=".github/assets/output/top-langs.svg" />
 
 </td>
 </tr>
