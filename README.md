@@ -75,7 +75,6 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
     <tr align="left">
       <th>º</th>
       <th>Projeto</th>
-      <th>Tipo</th>
       <th>Stack</th>
       <th>Descrição</th>
       <th>Repositório</th>
@@ -86,7 +85,6 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
     <tr>
       <td>📒</td>
       <td align="center"><b>Acervo de Estudos e Aprendizado Contínuo</b></td>
-      <td>Study / Reference</td>
       <td>PDF · Docs</td>
       <td>Repositório com livros e materiais em PDF destinados a estudos, aprofundamento técnico e evolução contínua em engenharia de software.</td>
       <td align="center">
@@ -99,7 +97,6 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
    <tr>
       <td>🎯</td>
       <td align="center"><b>Roadmap de Certificações e Estudos Técnicos</b></td>
-      <td>Study / Roadmap</td>
       <td>Docs · Markdown · Study Plan</td>
       <td>Projeto pessoal com documentações, exercícios e guias práticos sobre como se preparar e conquistar certificações em engenharia de software e cloud.</td>
       <td align="center">
@@ -146,7 +143,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
       </td>
       <td align="center">
         <a href="http://elizabetesousafabri.com.br/projects/portfolio-personal/" target="_blank">
-          <img src="https://img.shields.io/badge/Portfólio%20Pessoal-2563EB?style=for-the-badge" width="200px">
+          <img src="https://img.shields.io/badge/Ver%20Portfólio-2563EB?style=for-the-badge" width="200px">
         </a>
       </td>
     </tr>
@@ -165,7 +162,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
       </td>
       <td align="center">
         <a href="http://elizabetesousafabri.com.br/projects/portfolio-profissional/" target="_blank">
-          <img src="https://img.shields.io/badge/Portfólio%20Profissional-EA580C?style=for-the-badge" width="200px">
+          <img src="https://img.shields.io/badge/ver%20Portfólio-EA580C?style=for-the-badge" width="200px">
         </a>
       </td>
     </tr>
