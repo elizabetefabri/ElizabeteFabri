@@ -244,6 +244,11 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   <img src=".github/assets/output/borda.png" />
 </div> -->
 
+<img src=".github/assets/output/streak.svg" />
+<img src=".github/assets/output/stats.svg" />
+<img src=".github/assets/output/top-langs.svg" />
+<img src=".github/assets/output/activity-graph.svg" />
+
 ### GitHub Analytics
 
 <div align="center">
@@ -251,8 +256,6 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 <table>
 <tr>
 <td align="center">
-
-<img src=".github/assets/output/activity-graph.svg" />
 
 **Stats**
 <img height="160em" src=".github/assets/output/stats.svg" />
@@ -291,8 +294,9 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 <td align="left">
     
 ### 🟡 Pac-Man Graph
-
+<br/>
 <img width="1440" src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/dist/pacman-contribution-graph.svg" />
+<br/>
 
 </td>
 </tr>
@@ -302,7 +306,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 ### 🟡 Grid Snake
 
-
+<br/>
 <img width="1440" src=".github/assets/output/grid-snake.svg" />
 <br/>
 </td>
