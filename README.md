@@ -244,10 +244,10 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   <img src=".github/assets/output/borda.png" />
 </div> -->
 
-<img src=".github/assets/output/streak.svg" />
+<!-- <img src=".github/assets/output/streak.svg" />
 <img src=".github/assets/output/stats.svg" />
 <img src=".github/assets/output/top-langs.svg" />
-<img src=".github/assets/output/activity-graph.svg" />
+<img src=".github/assets/output/activity-graph.svg" /> -->
 
 ### GitHub Analytics
 
@@ -258,7 +258,9 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 <td align="center">
 
 **Stats**
-<img height="160em" src=".github/assets/output/stats.svg" />
+<img height="160em" src="https://github-stats-elizabete.vercel.app/api/top-langs/?username=elizabetefabri&layout=compact&theme=tokyonight&title_color=ff8888&text_color=d9d9d9&bg_color=1F222E&border_color=ff8899" />
+
+[![GitHub Streak](https://github-stats-elizabete.vercel.app?user=elizabetefabri&theme=dracula&locale=pt_BR)](https://git.io/streak-stats)
 
 </td>
 <td align="center">

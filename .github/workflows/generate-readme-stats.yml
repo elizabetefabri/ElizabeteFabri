@@ -22,12 +22,12 @@ jobs:
       - name: Ensure output folder
         run: mkdir -p .github/assets/output
 
-      - name: Download SVGs safely (fallback if invalid)
+      - name: Download SVGs safely
         shell: bash
         run: |
           set -euo pipefail
 
-          fetch_svg_safe () {
+          fetch_svg_safe() {
             local url="$1"
             local final="$2"
             local tmp="${final}.tmp"
@@ -37,7 +37,10 @@ jobs:
 
             echo "📥 Downloading: $url"
 
-            # Tenta fazer download com retry robusto
+            # Remove arquivo temporário anterior se existir
+            rm -f "$tmp"
+
+            # Faz download com retry robusto
             if ! curl -L \
               --connect-timeout "$timeout" \
               --max-time 60 \
@@ -46,73 +49,69 @@ jobs:
               --retry-all-errors \
               -H "Accept: image/svg+xml" \
               -H "User-Agent: Mozilla/5.0 (GitHub-Actions)" \
-              -w "\nHTTP Status: %{http_code}\n" \
               "$url" -o "$tmp" 2>&1; then
-              echo "⚠️ Falha ao baixar (endpoint indisponível/timeout). Mantendo anterior: $final"
+              echo "⚠️  Falha ao baixar: endpoint indisponível ou timeout"
               rm -f "$tmp"
               return 0
             fi
-
-            # Verifica status HTTP na resposta
-            http_status=$(tail -n 1 "$tmp" 2>/dev/null | grep -oP '(?<=HTTP Status: )\d+' || echo "000")
-            if [ "$http_status" -ge 400 ]; then
-              echo "⚠️ HTTP Error $http_status. Mantendo anterior: $final"
-              rm -f "$tmp"
-              return 0
-            fi
-
-            # Remove a linha de status HTTP do arquivo
-            head -n -1 "$tmp" > "$tmp.clean" 2>/dev/null
-            mv "$tmp.clean" "$tmp"
 
             # Valida se parece SVG
-            if ! head -n 5 "$tmp" | grep -qiE '(<svg|<\?xml)'; then
-              echo "⚠️ Invalid SVG (probably HTML error page). Not updating: $final"
-              echo "---- tmp head ----"
-              head -n 10 "$tmp" || true
+            if ! head -n 10 "$tmp" 2>/dev/null | grep -qiE '(<svg|<\?xml)'; then
+              http_code=$(curl -s -o /dev/null -w "%{http_code}" "$url")
+              echo "⚠️  Não é SVG válido (HTTP $http_code). Provavelmente HTML/erro"
+              head -n 5 "$tmp" 2>/dev/null | sed 's/^/  /'
               rm -f "$tmp"
               return 0
             fi
 
-            # Valida tamanho do arquivo
-            bytes=$(wc -c < "$tmp" | tr -d ' ')
+            # Valida tamanho
+            bytes=$(wc -c < "$tmp" 2>/dev/null | tr -d ' ')
             if [ "$bytes" -lt 500 ]; then
-              echo "⚠️ SVG too small ($bytes bytes). Not updating: $final"
+              echo "⚠️  Arquivo muito pequeno ($bytes bytes)"
               rm -f "$tmp"
               return 0
             fi
 
+            # Move para local final
             mv "$tmp" "$final"
-            echo "✅ Updated: $final (${bytes} bytes)"
+            echo "✅ Sucesso: $final ($bytes bytes)"
           }
 
-          # 1) Streak (SEU Vercel)
-          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-          echo "🎯 Fetching Streak SVG"
-          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo ""
+          echo "╔════════════════════════════════════════════════════════════╗"
+          echo "║  Gerando Cards do README - GitHub Stats                   ║"
+          echo "╚════════════════════════════════════════════════════════════╝"
+          echo ""
+
+          # ✅ FUNCIONAL: Seu Vercel com Streak
+          echo "1️⃣  GitHub Streak (seu-projeto.vercel.app)"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
           STREAK_URL="https://github-stats-elizabete.vercel.app/?user=elizabetefabri&theme=dracula&locale=pt_BR&type=svg"
           fetch_svg_safe "$STREAK_URL" ".github/assets/output/streak.svg"
-
-          # 2) Activity Graph
           echo ""
-          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-          echo "📊 Fetching Activity Graph SVG"
-          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+          # ✅ FUNCIONAL: Activity Graph
+          echo "2️⃣  GitHub Activity Graph"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
           ACTIVITY_GRAPH_URL="https://github-readme-activity-graph.vercel.app/graph?username=elizabetefabri&bg_color=1F222E&color=ff8899&border_color=ff8899&title_color=ff8888&line=ff8899&point=fefefe&area=true&hide_border=false"
           fetch_svg_safe "$ACTIVITY_GRAPH_URL" ".github/assets/output/activity-graph.svg"
-
           echo ""
-          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-          echo "✨ Geração concluída! Verificando arquivos..."
-          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-          ls -lh .github/assets/output/ || echo "❌ Nenhum arquivo gerado"
 
-          # FUTURA: Quando você self-host github-readme-stats no seu Vercel:
-          # STATS_URL="https://github-stats-elizabete.vercel.app/api?username=elizabetefabri&show_icons=true&theme=tokyonight"
-          # fetch_svg_safe "$STATS_URL" ".github/assets/output/stats.svg"
-          #
-          # TOP_LANGS_URL="https://github-stats-elizabete.vercel.app/api/top-langs/?username=elizabetefabri&layout=compact&theme=tokyonight"
-          # fetch_svg_safe "$TOP_LANGS_URL" ".github/assets/output/top-langs.svg"
+          # 📋 INFORMAÇÃO: Próximas opções
+          echo "ℹ️  Opções disponíveis quando self-host github-readme-stats:"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo "Para adicionar Stats e Top Languages, faça:"
+          echo "1. Fork: https://github.com/anuraghazra/github-readme-stats"
+          echo "2. Deploy no seu Vercel"
+          echo "3. Descomente as linhas 105-112 neste arquivo"
+          echo ""
+
+          echo "╔════════════════════════════════════════════════════════════╗"
+          echo "║  Verificando arquivos gerados...                          ║"
+          echo "╚════════════════════════════════════════════════════════════╝"
+          echo ""
+          ls -lh .github/assets/output/*.svg 2>/dev/null || echo "❌ Nenhum SVG gerado"
+          echo ""
 
       - name: Commit and push if changed
         shell: bash
@@ -121,12 +120,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add .github/assets/output/*.svg
+          git add .github/assets/output/*.svg 2>/dev/null || true
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "ℹ️  Nenhuma alteração para fazer commit"
             exit 0
           fi
 
-          git commit -m "chore(readme): update readme cards"
+          git commit -m "chore(readme): update stats svgs"
           git push
