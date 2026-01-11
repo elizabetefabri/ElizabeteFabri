@@ -244,44 +244,46 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   <img src=".github/assets/output/borda.png" />
 </div> -->
 
-<!-- <img src=".github/assets/output/streak.svg" />
-<img src=".github/assets/output/stats.svg" />
-<img src=".github/assets/output/top-langs.svg" />
-<img src=".github/assets/output/activity-graph.svg" /> -->
-
 ### GitHub Analytics
 
 <div align="center">
 
+#### 🔥 GitHub Streak
+
+<img src=".github/assets/output/streak.svg" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+#### 📊 GitHub Stats
+
 <table>
 <tr>
-<td align="center">
+<td align="center" width="50%">
 
 **Stats**
-<img height="160em" src="https://github-stats-elizabete.vercel.app/api/top-langs/?username=elizabetefabri&layout=compact&theme=tokyonight&title_color=ff8888&text_color=d9d9d9&bg_color=1F222E&border_color=ff8899" />
 
-[![GitHub Streak](https://github-stats-elizabete.vercel.app?user=elizabetefabri&theme=dracula&locale=pt_BR)](https://git.io/streak-stats)
+<img src=".github/assets/output/stats.svg" alt="GitHub Stats" />
 
 </td>
-<td align="center">
+<td align="center" width="50%">
 
 **Top Languages**
 
-<img height="160em" src=".github/assets/output/top-langs.svg" />
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-**Activity Graph**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=elizabetefabri&bg_color=1F222E&color=ff8899&border_color=ff8899&title_color=ff8888&line=ff8899&point=fefefe&area=true&hide_border=false" />
+<img src=".github/assets/output/top-langs.svg" alt="Top Languages" />
 
 </td>
 </tr>
 </table>
+
+</div>
+
+<div align="center">
+
+#### 📈 Contribution Graph
+
+<img src=".github/assets/output/activity-graph.svg" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -309,7 +311,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 ### 🟡 Grid Snake
 
 <br/>
-<img width="1440" src=".github/assets/output/grid-snake.svg" />
+  <img width="1440" src=".github/assets/output/grid-snake.svg" />
 <br/>
 </td>
 </tr>
