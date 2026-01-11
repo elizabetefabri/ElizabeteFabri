@@ -108,7 +108,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
       </td>
       <td align="center">
         <a href="https://seudominio.com.br" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Deploy-ff8899?style=for-the-badge" width="550px">
+          <img src="https://img.shields.io/badge/Ver%20Deploy-ff8899?style=for-the-badge" width="430px">
         </a>
       </td>
     </tr>
@@ -145,7 +145,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
       </td>
       <td align="center">
         <a href="http://elizabetesousafabri.com.br/projects/portfolio-personal/" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Portfólio-ff8899?style=for-the-badge" width="450px">
+          <img src="https://img.shields.io/badge/Ver%20Portfólio-ff8899?style=for-the-badge" width="430px">
         </a>
       </td>
     </tr>
@@ -164,7 +164,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
       </td>
       <td align="center">
         <a href="http://elizabetesousafabri.com.br/projects/portfolio-profissional/" target="_blank">
-          <img src="https://img.shields.io/badge/ver%20Portfólio-ff8899?style=for-the-badge" width="450px">
+          <img src="https://img.shields.io/badge/ver%20Portfólio-ff8899?style=for-the-badge" width="430px">
         </a>
       </td>
     </tr>
