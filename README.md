@@ -72,7 +72,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 > Repositórios voltados ao aprendizado contínuo, organização de conhecimento e planejamento de evolução técnica, incluindo estudos, certificações e materiais de referência.
 
-<table>
+<table style="background-color: transparent;">
   <thead>
     <tr align="left">
       <th>º</th>
@@ -84,7 +84,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
     </tr>
   </thead>
   <tbody align="left">
-    <tr>
+    <tr style="background-color: transparent !important;">
       <td>📒</td>
       <td align="center"><b>Acervo de Estudos e Aprendizado Contínuo</b></td>
       <td>PDF · Docs</td>
@@ -96,7 +96,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
       </td>
       <td align="center"><span>-</span></td>
     </tr>
-   <tr>
+   <tr style="background-color: transparent !important;">
       <td>🎯</td>
       <td align="center"><b>Roadmap de Certificações e Estudos Técnicos</b></td>
       <td>Docs · Markdown · Study Plan</td>
@@ -119,7 +119,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 > Projetos que representam minha evolução técnica, foco em Frontend, Platform Engineering, Cloud e boas práticas de engenharia de software.
 
-<table>
+<table style="background-color: transparent;">
   <thead>
     <tr align="left">
       <th>º</th>
@@ -131,7 +131,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   </thead>
   <tbody>
     <!-- Portfólio Pessoal -->
-    <tr>
+    <tr style="background-color: transparent !important;">
       <td>✨</td>
       <td align="center"><b>Portfólio Pessoal</b></td>
       <td>
@@ -150,7 +150,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
       </td>
     </tr>
     <!-- Portfólio Profissional -->
-    <tr>
+    <tr style="background-color: transparent !important;">
       <td>✨</td>
       <td align="center"><b>Portfólio Profissional</b></td>
       <td>
@@ -248,7 +248,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 <div align="center">
 
-<table>
+<table style="background-color: transparent;">
 <tr>
 <td align="center">
 
@@ -266,7 +266,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 </td>
 </tr>
 
-<tr>
+<tr style="background-color: transparent !important;">
 <td colspan="2" align="center">
 
 **Activity Graph**
@@ -285,8 +285,8 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 ### Fun Visualizations
 
-<table>
-<tr>
+<table style="background-color: transparent;">
+<tr style="background-color: transparent !important;">
 <td align="left">
     
 ### 🟡 Pac-Man Graph
@@ -295,7 +295,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 </td>
 </tr>
-<tr>
+<tr style="background-color: transparent !important;">
 <td align="left">
 
   ### 🟡 Grid Snake
