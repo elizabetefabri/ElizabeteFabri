@@ -91,7 +91,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
       <td>Repositório com livros e materiais em PDF destinados a estudos, aprofundamento técnico e evolução contínua em engenharia de software.</td>
       <td align="center">
         <a href="https://github.com/elizabetefabri/engineering-library-pdfs" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20GitHub-1F1F1F?style=for-the-badge" width="150px">
+          <img src="https://img.shields.io/badge/Ver%20GitHub-1F1F1F?style=for-the-badge" width="250px">
         </a>
       </td>
       <td align="center"><span>-</span></td>
@@ -103,12 +103,12 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
       <td>Projeto pessoal com documentações, exercícios e guias práticos sobre como se preparar e conquistar certificações em engenharia de software e cloud.</td>
       <td align="center">
         <a href="https://github.com/elizabetefabri/engineering-certification-roadmap" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20GitHub-1F1F1F?style=for-the-badge" width="150px">
+          <img src="https://img.shields.io/badge/Ver%20GitHub-1F1F1F?style=for-the-badge" width="250px">
         </a>
       </td>
       <td align="center">
         <a href="https://seudominio.com.br" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Deploy-EA580C?style=for-the-badge" width="300px">
+          <img src="https://img.shields.io/badge/Ver%20Deploy-EA580C?style=for-the-badge" width="450px">
         </a>
       </td>
     </tr>
@@ -140,12 +140,12 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
       </td>
       <td align="center">
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20GitHub-1F1F1F?style=for-the-badge" width="150px">
+          <img src="https://img.shields.io/badge/Ver%20GitHub-1F1F1F?style=for-the-badge" width="250px">
         </a>
       </td>
       <td align="center">
         <a href="http://elizabetesousafabri.com.br/projects/portfolio-personal/" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Portfólio-2563EB?style=for-the-badge" width="300px">
+          <img src="https://img.shields.io/badge/Ver%20Portfólio-2563EB?style=for-the-badge" width="450px">
         </a>
       </td>
     </tr>
@@ -159,12 +159,12 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
       </td>
       <td align="center">
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20GitHub-1F1F1F?style=for-the-badge" width="150px">
+          <img src="https://img.shields.io/badge/Ver%20GitHub-1F1F1F?style=for-the-badge" width="250px">
         </a>
       </td>
       <td align="center">
         <a href="http://elizabetesousafabri.com.br/projects/portfolio-profissional/" target="_blank">
-          <img src="https://img.shields.io/badge/ver%20Portfólio-EA580C?style=for-the-badge" width="300px">
+          <img src="https://img.shields.io/badge/ver%20Portfólio-EA580C?style=for-the-badge" width="450px">
         </a>
       </td>
     </tr>
