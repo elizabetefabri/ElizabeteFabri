@@ -96,7 +96,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
       </td>
       <td align="center"><span>-</span></td>
     </tr>
-   <tr style="background-color: transparent !important;">
+   <!-- <tr style="background-color: transparent !important;">
       <td>🎯</td>
       <td align="center"><b>Roadmap de Certificações e Estudos Técnicos</b></td>
       <td>Docs · Markdown · Study Plan</td>
@@ -111,7 +111,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
           <img src="https://img.shields.io/badge/Ver%20Deploy-ff8899?style=for-the-badge" width="430px">
         </a>
       </td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
 
@@ -123,7 +123,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
   <thead>
     <tr align="left">
       <th>º</th>
-      <th>Projeto</th>
+      <th>Projetos</th>
       <th>Descrição</th>
       <th>Repositório</th>
       <th>Portfólio</th>
@@ -139,12 +139,12 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
         e iniciativas criativas desenvolvidas ao longo da minha jornada.
       </td>
       <td align="center">
-        <a href="#" target="_blank">
+        <a href="" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20GitHub-201F25?style=for-the-badge" width="300px">
         </a>
       </td>
       <td align="center">
-        <a href="http://elizabetesousafabri.com.br/projects/portfolio-personal/" target="_blank">
+        <a href="https://elizabetesousafabri.com.br/projects/portfolio-personal/" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Portfólio-ff8899?style=for-the-badge" width="430px">
         </a>
       </td>
@@ -158,7 +158,7 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
         soluções técnicas e evolução na engenharia de software.
       </td>
       <td align="center">
-        <a href="#" target="_blank">
+        <a href="" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20GitHub-201F25?style=for-the-badge" width="300px">
         </a>
       </td>
