@@ -248,42 +248,34 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 <div align="center">
 
-#### 🔥 GitHub Streak
-
-<img src=".github/assets/output/streak.svg" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-#### 📊 GitHub Stats
-
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center">
 
 **Stats**
 
-<img src=".github/assets/output/stats.svg" alt="GitHub Stats" />
+<img height="160em" src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/4f84bc5f1424b009a636ca6a9a8dc11883bd9bf0/.github/assets/output/stats.svg" />
 
 </td>
-<td align="center" width="50%">
+<td align="center">
 
 **Top Languages**
 
-<img src=".github/assets/output/top-langs.svg" alt="Top Languages" />
+<img height="160em" src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/4f84bc5f1424b009a636ca6a9a8dc11883bd9bf0/.github/assets/output/top-langs.svg" />
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+**Activity Graph**
+
+<img src=".github/assets/output/activity-graph.svg" />
 
 </td>
 </tr>
 </table>
-
-</div>
-
-<div align="center">
-
-#### 📈 Contribution Graph
-
-<img src=".github/assets/output/activity-graph.svg" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -293,26 +285,21 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 
 ### Fun Visualizations
 
-<table align="center">
+<table>
 <tr>
 <td align="left">
     
 ### 🟡 Pac-Man Graph
-<br/>
-<img width="1440" src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/main/dist/pacman-contribution-graph.svg" />
-<br/>
+
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/4f84bc5f1424b009a636ca6a9a8dc11883bd9bf0/dist/pacman-contribution-graph-dark.svg" />
 
 </td>
 </tr>
-
 <tr>
 <td align="left">
 
-### 🟡 Grid Snake
-
-<br/>
-  <img width="1440" src=".github/assets/output/grid-snake.svg" />
-<br/>
+  ### 🟡 Grid Snake
+  <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/4f84bc5f1424b009a636ca6a9a8dc11883bd9bf0/.github/assets/output/grid-snake.svg" />
 </td>
 </tr>
 </table>

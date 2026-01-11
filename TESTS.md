@@ -25,11 +25,13 @@ bash test-pacman.sh
 ## 🔧 Soluções para cada erro:
 
 ### 1. **Erro 503 do GitHub Readme Stats**
+
 - ❌ Não use: `https://github-readme-stats.vercel.app`
 - ✅ Use seu fork: `https://github-readme-stats-sigma-ten-59.vercel.app`
 - ✅ Status atual: **FIXADO** - seu workflow já está com a URL correta
 
 ### 2. **Erro Pacman (Heap Memory)**
+
 - **Causa:** A action é pesada e requer muita memória
 - **Opções:**
   1. **Manter a action** - Pode falhar ocasionalmente, mas workflow continua
@@ -42,27 +44,31 @@ bash test-pacman.sh
 
 ### Status dos endpoints:
 
-| Endpoint | URL | Status | Teste Local |
-|----------|-----|--------|-------------|
-| Streak | `github-stats-elizabete.vercel.app` | ✅ OK | ✅ PASSOU (7.1 KB) |
-| Activity Graph | `github-readme-activity-graph.vercel.app` | ✅ OK | ✅ PASSOU (18.2 KB) |
-| GitHub Stats | `github-readme-stats-sigma-ten-59.vercel.app` | ✅ OK | ✅ PASSOU (806 B) |
-| Top Languages | `github-readme-stats-sigma-ten-59.vercel.app` | ✅ OK | ✅ PASSOU (806 B) |
-| Pacman | `abozanona/pacman-contribution-graph@main` | ⚠️ HEAP ERROR | Memory issue |
+| Endpoint       | URL                                           | Status        | Teste Local         |
+| -------------- | --------------------------------------------- | ------------- | ------------------- |
+| Streak         | `github-stats-elizabete.vercel.app`           | ✅ OK         | ✅ PASSOU (7.1 KB)  |
+| Activity Graph | `github-readme-activity-graph.vercel.app`     | ✅ OK         | ✅ PASSOU (18.2 KB) |
+| GitHub Stats   | `github-readme-stats-sigma-ten-59.vercel.app` | ✅ OK         | ✅ PASSOU (806 B)   |
+| Top Languages  | `github-readme-stats-sigma-ten-59.vercel.app` | ✅ OK         | ✅ PASSOU (806 B)   |
+| Pacman         | `abozanona/pacman-contribution-graph@main`    | ⚠️ HEAP ERROR | Memory issue        |
 
 ---
 
 ## 🚀 Próximos Passos
 
 ### Opção A: Aceitar o erro Pacman ocasional
+
 - Seu workflow SVG está **100% OK**
 - O Pacman pode falhar, mas não quebra o resto
 
 ### Opção B: Remover Pacman
+
 Se não quer o gráfico pacman, remova a action do `.github/workflows/pacman.yml`
 
 ### Opção C: Aumentar memória do Node.js
+
 Adicionar ao `pacman.yml`:
+
 ```yaml
 env:
   NODE_OPTIONS: --max-old-space-size=4096
