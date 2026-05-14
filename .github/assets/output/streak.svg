@@ -102,7 +102,7 @@
                 <!-- Longest Streak range -->
                 <g transform='translate(412.5, 114)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#F8F8F2' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.4s'>
-                        7 de fev. - 10 de fev.
+                        <tspan x='0' dy='0'>29 de out. de 2023</tspan><tspan x='0' dy='16'>- 1 de nov. de 2023</tspan>
                     </text>
                 </g>
             </g>
