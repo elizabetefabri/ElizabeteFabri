@@ -2,7 +2,6 @@
   <a href="https://elizabetesousafabri.com.br" target="_blank">
     <img src=".github/assets/menu-site.png" width="45" />
   </a>
-
   <span>Elizabete De Sousa Fabri</span>
 </h1>
 
