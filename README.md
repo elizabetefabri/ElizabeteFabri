@@ -1,8 +1,9 @@
 <h1 align="left">
-  <a href="https://elizabetesousafabri.com.br" style="padding-left: 15px;">
-    <img src=".github/assets/menu-site.png" width="40px" />
+  <a href="https://elizabetesousafabri.com.br">
+    <img src=".github/assets/menu-site.png" />
+  
+    <span>Elizabete De Sousa Fabri</span>
   </a>
-  <span>Elizabete De Sousa Fabri</span>
 </h1>
 
 <p align="left">
