@@ -2,7 +2,7 @@
   <a href="https://elizabetesousafabri.com.br" style="padding-left: 15px;">
     <img src=".github/assets/menu-site.png" width="40px" />
   </a>
-  <span style="color:#ffb84d;">Elizabete De Sousa Fabri</span>
+  <span>Elizabete De Sousa Fabri</span>
 </h1>
 
 <p align="left">
@@ -29,19 +29,23 @@ In my free time, I enjoy building intuitive interfaces and exploring personal pr
 ### Connect with Me
 
 <div align="left">
-  <!-- LinkedIn -->
+  <!-- Social midia -->
   <a href="https://www.linkedin.com/in/elizabetefabri/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-FF8899?style=for-the-badge&labelColor=ff8899&logo=linkedin&logoColor=554961&color=FF8899&textColor=ffffff" alt="icone-link" />
   </a>
+  
   <a href="https://github.com/elizabetefabri" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/GitHub-FF8899?style=for-the-badge&labelColor=ff8899&logo=github&logoColor=554961&color=FF8899&textColor=ffffff" alt="github"/>
   </a>
+  
   <a href="mailto:elizabetesousafabri@gmail.com" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Gmail-FF8899?style=for-the-badge&labelColor=ff8899&logo=gmail&logoColor=554961&color=FF8899&textColor=ffffff" alt="email"/>
   </a>
+  
   <a href="https://www.instagram.com/elizabetefabrii/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Instagram-FF8899?style=for-the-badge&labelColor=ff8899&logo=instagram&logoColor=554961&color=FF8899&textColor=ffffff" alt="instagram"/>
   </a>
+  
   <a href="https://twitter.com/elizabetefabrii" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Twitter-FF8899?style=for-the-badge&labelColor=ff8899&logo=x&logoColor=554961&color=FF8899&textColor=ffffff" alt="twitter"/>
   </a>
